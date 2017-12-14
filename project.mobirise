@@ -50,7 +50,7 @@
       "components": [
         {
           "_params": {
-            "showLogo": true,
+            "showLogo": false,
             "showTitle": true,
             "showText": true,
             "showCountdown": true,
