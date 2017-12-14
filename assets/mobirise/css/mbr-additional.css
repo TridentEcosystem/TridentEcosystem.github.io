@@ -674,13 +674,17 @@ h6,
 }
 #extTable1-e .mbr-section-title {
   font-size: 32px;
+  color: #ffffff;
 }
 #extTable1-e B {
-  color: #000000;
+  color: #ffffff;
   font-size: 18px;
 }
 #extTable1-e TD {
-  color: #cccccc;
+  color: #ffffff;
+}
+#extTable1-e TH {
+  color: #ffffff;
 }
 #ext_menu-i .hide-buttons .nav-btn {
   display: none !important;
