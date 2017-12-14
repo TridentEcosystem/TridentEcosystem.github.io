@@ -84,7 +84,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/logo2-250x250.png",
+              "src": "@PROJECT_PATH@/assets/images/unnamed-300x300.png",
               "link": "",
               "alt": "",
               "title": ""
