@@ -23,7 +23,8 @@
       "additionalSetColors": [
         "#e3eff4",
         "#f4f4f4",
-        "#52a4d6"
+        "#52a4d6",
+        "#1f658f"
       ]
     },
     "versionFirst": "4.4.1",
@@ -50,13 +51,13 @@
       "components": [
         {
           "_params": {
-            "showLogo": false,
+            "showLogo": true,
             "showTitle": true,
             "showText": true,
             "showCountdown": true,
             "showForm": true,
             "showArrow": true,
-            "imageSize": "17",
+            "imageSize": "22",
             "countdown": "2018/01/01",
             "animText1": "Pre Early Birds",
             "animText2": "Closed Door Launching",
@@ -180,9 +181,9 @@
             "showBrand": true,
             "hideButtons": false,
             "sticky": true,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": false,
-            "bgColor": "#52a4d6",
+            "bgColor": "#1f658f",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -218,13 +219,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#2f8dc6"
+              "background": "#164765"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#469dd3!important"
+              "background": "#1c5c82!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#52a4d6"
+              "background": "#1f658f"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
