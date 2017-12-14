@@ -244,7 +244,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo1-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo5-128x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -1083,7 +1083,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/logo1-500x500.png",
+              "src": "@PROJECT_PATH@/assets/images/logo5-150x150.png",
               "link": "",
               "alt": "",
               "title": ""
