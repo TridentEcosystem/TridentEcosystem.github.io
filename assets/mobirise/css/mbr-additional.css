@@ -686,6 +686,17 @@ h6,
 #extTable1-e TH {
   color: #ffffff;
 }
+#content5-19 .mbr-section-title,
+#content5-19 p {
+  color: #fff;
+}
+#content5-19 P {
+  font-size: 21px;
+  color: #ffffff;
+}
+#content5-19 .mbr-section-title {
+  font-size: 36px;
+}
 #ext_menu-i .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -765,47 +776,12 @@ h6,
 #extMsg-box2-g P {
   color: #ffffff;
 }
-#contacts5-5 p,
-#contacts5-5 .list-group-text,
-#contacts5-5 .form-control-label {
-  color: #000;
-}
-#contacts5-5 strong,
-#contacts5-5 h4 {
-  color: #7e9b9f;
-}
-#contacts5-5 form .form-control {
-  border-color: rgba(0, 0, 0, 0.2);
-  color: #565656;
-}
-#contacts5-5 .mbr-footer-content li {
-  border-bottom: 1px dotted rgba(0, 0, 0, 0.1);
-}
-#contacts5-5 .mbr-company .list-group-text::after {
-  border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
-}
-#contacts5-5 LI {
-  color: #c0a375;
-}
 #extFooter1-p UL {
   color: #ffffff;
 }
 #extFooter1-p .mbr-section-title {
   font-size: 32px;
   color: #ffffff;
-}
-#extFeatures2-13 .etl-icon {
-  color: #333333;
-}
-#extFeatures2-13 H2 {
-  color: #ffffff;
-}
-#extFeatures2-13 .intro-box h4 {
-  color: #ffffff;
-}
-#extFeatures2-13 P {
-  color: #ffffff;
-  font-size: 16px;
 }
 #ext_menu-r .hide-buttons .nav-btn {
   display: none !important;
