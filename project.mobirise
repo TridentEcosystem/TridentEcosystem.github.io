@@ -1082,7 +1082,7 @@
             "overlayOpacity": 0.4
           },
           "list": "<ul>Github / Facebook / Twitter / Email / <a href=\"page1.html\">Terms &amp; Conditions</a></ul><ul>Levels 2-4, 318 Lambton Quay, Wellington, 6011 \n</ul><ul>​PO Box 25175 Wellington, NZ</ul><br><ul><li></li></ul>",
-          "title": "Trident Eco Link",
+          "title": "Trident Ecolink",
           "media": {
             "image": {
               "active": true,
@@ -1107,6 +1107,9 @@
           "_styles": {
             "UL": {
               "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "font-size": "32px"
             }
           }
         },
@@ -1250,7 +1253,7 @@
             "overlayOpacity": 0.4
           },
           "list": "<ul>Github / Facebook / Twitter / Email / <a href=\"page1.html\">Terms &amp; Conditions</a></ul><ul>Levels 2-4, 318 Lambton Quay, Wellington, 6011 \n</ul><ul>​PO Box 25175 Wellington, NZ</ul><br><ul><li></li></ul>",
-          "title": "Trident Eco Link",
+          "title": "Trident Ecolink",
           "media": {
             "image": {
               "active": true,
@@ -1274,6 +1277,9 @@
           "_styles": {
             "UL": {
               "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "font-size": "32px"
             }
           },
           "_anchor": "extFooter1-t"

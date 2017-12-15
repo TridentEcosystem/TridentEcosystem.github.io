@@ -790,6 +790,9 @@ h6,
 #extFooter1-p UL {
   color: #ffffff;
 }
+#extFooter1-p .mbr-section-title {
+  font-size: 32px;
+}
 #ext_menu-r .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -853,6 +856,9 @@ h6,
 }
 #extFooter1-t UL {
   color: #ffffff;
+}
+#extFooter1-t .mbr-section-title {
+  font-size: 32px;
 }
 #msg-box3-u .mbr-section-title,
 #msg-box3-u p {
