@@ -792,6 +792,20 @@ h6,
 }
 #extFooter1-p .mbr-section-title {
   font-size: 32px;
+  color: #ffffff;
+}
+#extFeatures2-13 .etl-icon {
+  color: #333333;
+}
+#extFeatures2-13 H2 {
+  color: #ffffff;
+}
+#extFeatures2-13 .intro-box h4 {
+  color: #ffffff;
+}
+#extFeatures2-13 P {
+  color: #ffffff;
+  font-size: 16px;
 }
 #ext_menu-r .hide-buttons .nav-btn {
   display: none !important;
@@ -859,6 +873,7 @@ h6,
 }
 #extFooter1-t .mbr-section-title {
   font-size: 32px;
+  color: #ffffff;
 }
 #msg-box3-u .mbr-section-title,
 #msg-box3-u p {
@@ -933,6 +948,7 @@ h6,
 }
 #extFooter1-x .mbr-section-title {
   font-size: 32px;
+  color: #ffffff;
 }
 #msg-box3-y .mbr-section-title,
 #msg-box3-y p {
