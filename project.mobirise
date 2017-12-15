@@ -186,7 +186,7 @@
               "color": "#fff"
             },
             "P": {
-              "font-size": "21px",
+              "font-size": "20px",
               "color": "#ffffff"
             },
             ".mbr-section-title": {
@@ -212,7 +212,7 @@
             "overlayOpacity": "0.6"
           },
           "title": "Trident Pre Early Birds Offering<br>OX---------------------------------------",
-          "caption": "<p>Closed door tokens offering. 1 ETH = 30,000 CRDNT tokens. Amount capped at 24 millions tokens. This is the earliest phase of crowdfunding offering. Funds collected will be used to developed completion of server nodes. Minimum investment is 1 ETH.&nbsp;</p><p>To contribute: Please send the desired amount of ETHER to contribution address <b>OX-----------------------------</b></p><p>Set Gas Price at 70 GWEI and Gas Limit at 200,000</p><p>Contributor shall receive tokens within 24 working hours. Tokens will be sent directly to the contributor's wallet address.&nbsp;</p><p>Please use myetherwallet or IMToken wallet to send your ETHER</p>",
+          "caption": "<p>Closed door tokens offering. 1 ETH = 30,000 CRDNT tokens. Amount capped at 24 millions tokens. This is the earliest phase of crowdfunding offering. Funds collected will be used to developed completion of server nodes. Minimum investment is 1 ETH.&nbsp;</p><p>To contribute: Please send the desired amount of ETHER to contribution address <b>OX-----------------------------</b></p><p>Set Gas Price at 70 GWEI and Gas Limit at 200,000</p><p>Contributor shall receive tokens within 24 working hours. Tokens will be sent directly to the contributor's wallet address.&nbsp;</p><p>Please use myetherwallet or IMToken wallet to send your ETHER</p><p>Join the Pre Ear;y Birds investment opportunity and enjoy massive gain in the future token pice.\r</p><p>1 ETH = 30,000  TRDNT\r</p><p>Expected exchange listing price at USD $0.13\r</p><p>We are aiming for long term based price at USD $30 pertoken in 84 months</p>",
           "_tags": [
             "Theme"
           ],
@@ -236,7 +236,7 @@
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
-          "text": "Join the Pre Ear;y Birds investment opportunity and enjoy massive gain in the future token pice.<br>1 ETH = 30,000 &nbsp;TRDNT<br>Expected exchange listing price at USD $0.13<br>We are aiming for long term based price at USD $30 pertoken in 84 months<br><br>First immediate project will be the development and release of GPS Tracking App &amp; Server after the completion of Pre Early Birds Offering&nbsp;",
+          "text": "<br>First immediate project will be the development and release of GPS Tracking App &amp; Server after the completion of Pre Early Birds Offering&nbsp;",
           "_tags": [
             "Theme"
           ],
@@ -244,7 +244,7 @@
           "_anchor": "image1-k",
           "_styles": {
             "DIV": {
-              "color": "#f3c649",
+              "color": "#ffffff",
               "font-size": "20px"
             }
           }
