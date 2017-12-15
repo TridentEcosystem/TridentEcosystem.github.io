@@ -491,7 +491,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "imageSize": 90,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/img-extheader6-bg.jpg",
@@ -503,13 +503,13 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.7
+            "overlayColor": "#2969b0",
+            "overlayOpacity": "0.6"
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/4439-jclq2x.gif",
+              "src": "@PROJECT_PATH@/assets/images/invest-carnival-banner-m.gif",
               "link": "",
               "alt": "",
               "title": ""
@@ -529,8 +529,8 @@
               "loop": false
             }
           },
-          "title": "INTRO WITH IMAGE",
-          "text": "Full-screen intro with image at the bottom. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi l aboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
+          "title": "Investment Perpective",
+          "text": "1. If you had invested USD $100 in Bitcoin (BTC) in 2011. At current time of writing, you would have vested USD $ 4.2 millions worth of Bitcoin<br><br>2. Invest 10% of your networth in diversified portfolio of Cryptocurrency and ICO. Tucked them away safely for 5 years. You may enjoy a nice suprise<br><br><br><br>",
           "text2": "<label class=\"blackColor\" for=\"modal\">Watch Video</label>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "DualButtons": "<a data-app-btn=\"true\" class=\"btn btn-primary\">DOWNLOAD FOR WIN</a> <a data-app-btn=\"true\" class=\"btn btn-info\">DOWNLOAD FOR MAC</a>",
@@ -539,7 +539,19 @@
             "Extension"
           ],
           "_name": "extHeader6",
-          "_anchor": "extHeader6-7"
+          "_anchor": "extHeader6-7",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "color": "#ffffff"
+            },
+            "H3": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "46px",
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_params": {
@@ -916,6 +928,60 @@
           ],
           "_name": "extFeatures1",
           "_anchor": "extFeatures1-b"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "collapseAll": false,
+            "tabs": "6",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#2b0680",
+            "overlayOpacity": "0.5"
+          },
+          "title": "Accordion FAQ",
+          "title1": "<a role=\"button\" class=\"text-white\" data-toggle=\"collapse\" data-parent=\"#accordion_14\" data-core=\"\" href=\"#collapseOne_14\" aria-expanded=\"true\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>What is Trident tokens?</a>",
+          "title2": "<a role=\"button\" class=\"text-white\" data-toggle=\"collapse\" data-parent=\"#accordion_13\" data-core=\"\" href=\"#collapseTwo_13\" aria-expanded=\"true\" aria-controls=\"collapseTwo\">Products?</a>",
+          "title3": "<a role=\"button\" class=\"text-white\" data-toggle=\"collapse\" data-parent=\"#accordion_13\" data-core=\"\" href=\"#collapseThree_13\" aria-expanded=\"true\" aria-controls=\"collapseThree\">Good Investment?</a>",
+          "title4": "",
+          "title5": "",
+          "title6": "<a role=\"button\" class=\"text-white\" data-toggle=\"collapse\" data-parent=\"#accordion_14\" data-core=\"\" href=\"#collapseSix_14\" aria-expanded=\"true\" aria-controls=\"collapseSix\">Team Member</a>",
+          "text1": "Trident token (TRDNT) serves as the only denominating cryptocurrency commonly used in the Trident Ecolink Platform. The supply is permanently fixed at 131 millions tokens only. It is an ETHEREUM ERC20 compatible utulity token. \n<div>\n</div><div>Users will need to use Trident tokens to pay for servie subscription, hardware purchase, software purchase and other related services. Early investors will have an opportunity to earn a high ROI while holding the tokens as we develop our projects according to our roadmap which increase the global demand of the TRDNT as both utility tokens and also as storage of value.&nbsp;</div>",
+          "text2": "First immediate project will be the development and release of GPS Tracking App &amp; Server after the completion of Pre Early Birds Offering.&nbsp;<span style=\"font-size: 1rem;\">This is a multip-purpose GPS Laser Precision Tracking system with added visual and audio capabilities.</span><div>\n</div><div>Immediate targeted users will be 6 millions professional and amateur drivers who are eager to subscribe to our services and also as TRDNT tokens holder.&nbsp;<span style=\"font-size: 1rem;\">We will constanly update users and investors regarding latest products and services in the roadmap</span></div>",
+          "text3": "Trident Ecolink is a real product backed business platform. With 6 millions divers worldwide eager to subscribe to our GPS Services, we are rather confident that TRDNT tokens will attract a lots of hype and attention in the crypto investment world. Currrently we are the only company that decenrtralise martime industry via blockchain ledgering technology. &nbsp;Please use your judgement to validate our investment and ROI potential&nbsp;",
+          "text4": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "text5": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "text6": "<p>All members of the Trident Ecolink management team are highly experienced marine digital payment professionals coming from some of the most innovative Fintech sectors in the world and having spent the better part of 10 years developing digital payment and banking solutions. This team is supported by experienced financial professionals and experienced C level executives who have worked in several different markets and countries.&nbsp;</p>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extAccordion1",
+          "_anchor": "extAccordion1-1j",
+          "_styles": {
+            "H1": {
+              "color": "#ffffff",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "24px"
+            },
+            "P": {
+              "color": "#ffffff"
+            },
+            "DIV": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_params": {
@@ -1352,60 +1418,6 @@
             ".mbr-section-title": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "collapseAll": false,
-            "tabs": "6",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#2b0680",
-            "overlayOpacity": "0.5"
-          },
-          "title": "Accordion FAQ",
-          "title1": "<a role=\"button\" class=\"text-white\" data-toggle=\"collapse\" data-parent=\"#accordion_43\" data-core=\"\" href=\"#collapseOne_43\" aria-expanded=\"true\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>What is Trident tokens?</a>",
-          "title2": "<a role=\"button\" class=\"text-white collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion_12\" data-core=\"\" href=\"#collapseTwo_12\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">Products?</a>",
-          "title3": "<a role=\"button\" class=\"text-white\" data-toggle=\"collapse\" data-parent=\"#accordion_12\" data-core=\"\" href=\"#collapseThree_12\" aria-expanded=\"true\" aria-controls=\"collapseThree\">Good Investment?</a>",
-          "title4": "How&nbsp;",
-          "title5": "<a role=\"button\" class=\"text-white collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion_43\" data-core=\"\" href=\"#collapseFive_43\" aria-expanded=\"false\" aria-controls=\"collapseFive\">This is a accordion Title 5</a>",
-          "title6": "<a role=\"button\" class=\"text-white\" data-toggle=\"collapse\" data-parent=\"#accordion_43\" data-core=\"\" href=\"#collapseSix_43\" aria-expanded=\"true\" aria-controls=\"collapseSix\">Team Member</a>",
-          "text1": "Trident token (TRDNT) serves as the only denominating cryptocurrency commonly used in the Trident Ecolink Platform. The supply is permanently fixed at 131 millions tokens only. It is an ETHEREUM ERC20 compatible utulity token. \r<div>\r</div><div>Users will need to use Trident tokens to pay for servie subscription, hardware purchase, software purchase and other related services. Early investors will have an opportunity to earn a high ROI while holding the tokens as we develop our projects according to our roadmap which increase the global demand of the TRDNT as both utility tokens and also as storage of value.&nbsp;</div>",
-          "text2": "First immediate project will be the development and release of GPS Tracking App &amp; Server after the completion of Pre Early Birds Offering.&nbsp;<span style=\"font-size: 1rem;\">This is a multip-purpose GPS Laser Precision Tracking system with added visual and audio capabilities.</span><div>\n</div><div>Immediate targeted users will be 6 millions professional and amateur drivers who are eager to subscribe to our services and also as TRDNT tokens holder.&nbsp;<span style=\"font-size: 1rem;\">We will constanly update users and investors regarding latest products and services in the roadmap</span></div>",
-          "text3": "Trident Ecolink is a real product backed business platform. With 6 millions divers worldwide eager to subscribe to our GPS Services, we are rather confident that TRDNT tokens will attract a lots of hype and attention in the crypto investment world. Currrently we are the only company that decenrtralise martime industry via blockchain ledgering technology. &nbsp;Please use your judgement to validate our investment and ROI potential&nbsp;",
-          "text4": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
-          "text5": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
-          "text6": "<p>All members of the Trident Ecolink management team are highly experienced marine digital payment professionals coming from some of the most innovative Fintech sectors in the world and having spent the better part of 10 years developing digital payment and banking solutions. This team is supported by experienced financial professionals and experienced C level executives who have worked in several different markets and countries.&nbsp;</p>",
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extAccordion1",
-          "_anchor": "extAccordion1-1j",
-          "_styles": {
-            "H1": {
-              "color": "#ffffff",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "30px"
-            },
-            "P": {
-              "color": "#ffffff"
-            },
-            "DIV": {
-              "color": "#ffffff"
             }
           }
         }

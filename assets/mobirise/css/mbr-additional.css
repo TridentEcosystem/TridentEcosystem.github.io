@@ -13,6 +13,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -793,6 +794,15 @@ h6,
 #content2-17 BLOCKQUOTE {
   font-size: 20px;
 }
+#extHeader6-7 P {
+  text-align: left;
+  color: #ffffff;
+}
+#extHeader6-7 H3 {
+  font-family: 'Lora', serif;
+  font-size: 46px;
+  color: #ffffff;
+}
 #extFeatures10-d .etl-icon {
   color: #333333;
 }
@@ -811,6 +821,17 @@ h6,
   color: #ffffff;
 }
 #extFeatures1-b .feature-subtitle {
+  color: #ffffff;
+}
+#extAccordion1-1j H1 {
+  color: #ffffff;
+  font-family: 'Lora', serif;
+  font-size: 24px;
+}
+#extAccordion1-1j P {
+  color: #ffffff;
+}
+#extAccordion1-1j DIV {
   color: #ffffff;
 }
 #extFooter1-p UL {
@@ -835,17 +856,6 @@ h6,
 }
 #extFeatures9-15 .mbr-section-title {
   font-family: 'Lora', serif;
-}
-#extAccordion1-1j H1 {
-  color: #ffffff;
-  font-family: 'Lora', serif;
-  font-size: 30px;
-}
-#extAccordion1-1j P {
-  color: #ffffff;
-}
-#extAccordion1-1j DIV {
-  color: #ffffff;
 }
 
 #ext_menu-r .hide-buttons .nav-btn {
