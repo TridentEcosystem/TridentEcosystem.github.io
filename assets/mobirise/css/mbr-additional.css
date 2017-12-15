@@ -14,6 +14,10 @@
 
 
 
+
+
+
+
 body,
 input,
 textarea,
@@ -681,6 +685,8 @@ h6,
 }
 #extHeader15-a .display-2 {
   color: #e3eff4;
+  font-family: 'Lora', serif;
+  font-size: 36px;
 }
 #extTable1-e .mbr-section-title {
   font-size: 32px;
@@ -783,7 +789,7 @@ h6,
   color: #c0a375!important;
 }
 #extHeader5-6 H3 {
-  font-size: 32px;
+  font-size: 30px;
   color: #d5f2f7;
   font-family: 'Lora', serif;
 }
@@ -800,7 +806,7 @@ h6,
 }
 #extHeader6-7 H3 {
   font-family: 'Lora', serif;
-  font-size: 46px;
+  font-size: 30px;
   color: #ffffff;
 }
 #extFeatures10-d .etl-icon {
@@ -814,9 +820,18 @@ h6,
   color: #ffffff;
   font-size: 20px;
 }
+#extFeatures10-d .mbr-section-title {
+  font-family: 'Lora', serif;
+  font-size: 36px;
+}
+#extProgressBar5-o H2 {
+  font-family: 'Lora', serif;
+  font-size: 32px;
+}
 #extFeatures1-b .mbr-section-title {
   color: #fff;
-  font-size: 32px;
+  font-size: 25px;
+  font-family: 'Lora', serif;
 }
 #extFeatures1-b .mbr-section-subtitle {
   color: #ffffff;
@@ -860,6 +875,7 @@ h6,
 }
 #extFeatures9-15 .mbr-section-title {
   font-family: 'Lora', serif;
+  font-size: 36px;
 }
 
 #ext_menu-r .hide-buttons .nav-btn {

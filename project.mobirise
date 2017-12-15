@@ -126,7 +126,10 @@
           "_anchor": "extHeader15-a",
           "_styles": {
             ".display-2": {
-              "color": "#e3eff4"
+              "color": "#e3eff4",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px"
             }
           }
         },
@@ -213,11 +216,11 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#000",
+            "overlayColor": "#2b0680",
             "overlayOpacity": "0.6"
           },
-          "title": "Trident Pre Early Birds Offering<br>OX---------------------------------------",
-          "caption": "<p>Closed door tokens offering. 1 ETH = 30,000 CRDNT tokens. Amount capped at 24 millions tokens. This is the earliest phase of crowdfunding offering. Funds collected will be used to developed completion of server nodes. Minimum investment is 1 ETH.&nbsp;</p><p>To contribute: Please send the desired amount of ETHER to contribution address <b>OX-----------------------------</b></p><p>Set Gas Price at 70 GWEI and Gas Limit at 200,000</p><p>Contributor shall receive tokens within 24 working hours. Tokens will be sent directly to the contributor's wallet address.&nbsp;</p><p>Please use myetherwallet or IMToken wallet to send your ETHER</p><p>Join the Pre Ear;y Birds investment opportunity and enjoy massive gain in the future token pice.\n</p><p>1 ETH = 30,000  TRDNT\n</p><p>Expected exchange listing price at USD $0.13\n</p><p>We are aiming for long term based price at USD $30 pertoken in 84 months</p>",
+          "title": "Trident Pre Early Birds Offering<br><br>xxxxxxxxxxxxxxxxxxxxxxxxx",
+          "caption": "<p>Closed door tokens offering. 1 ETH = 30,000 CRDNT tokens. Amount capped at 24 millions tokens. This is the earliest phase of crowdfunding offering. Funds collected will be used to developed completion of server nodes. Minimum investment is 1 ETH.&nbsp;</p><p>To contribute: Please send the desired amount of ETHER to contribution address:</p><p>xxxxxxxxxxxxxxxxxxxxxxxxx</p><p>Set Gas Price at 70 GWEI and Gas Limit at 200,000</p><p>Contributor shall receive tokens within 24 working hours. Tokens will be sent directly to the contributor's wallet address.&nbsp;</p><p>Please use myetherwallet or IMToken wallet to send your ETHER</p><p>Join the Pre Ear;y Birds investment opportunity and enjoy massive gain in the future token pice.\n</p><p>1 ETH = 30,000  TRDNT\n</p><p>Expected exchange listing price at USD $0.13\n</p><p>We are aiming for long term based price at USD $30 pertoken in 84 months</p>",
           "_tags": [
             "Theme"
           ],
@@ -262,9 +265,9 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": "23",
+            "imageSize": "21",
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extMsg-box1_bg.jpg",
             "parallax": true,
@@ -428,7 +431,7 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#fff",
+            "overlayColor": "#2b0680",
             "overlayOpacity": "0.1"
           },
           "media": {
@@ -458,7 +461,7 @@
           "_anchor": "extHeader5-6",
           "_styles": {
             "H3": {
-              "font-size": "32px",
+              "font-size": "30px",
               "color": "#d5f2f7",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
@@ -475,7 +478,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p>With the help of blockchain technology and smart contracts, the whole process becomes as transparent and automated as possible, which makes the platform a strong extension of the existing industry and enables the use of crypto currency in real business.</p><p><br></p><p>Trident Ecolink is the first platform of its kind, and its economy assumes absolute transparency and absence of boundaries which provides new possibilities to monetize Marine Ecosystem thanks to the unique Trident (TRDNT) token. Trident (TRDNT) will be the main means of payment within the ecosystem\n and also may act as storage of value with massive forthcoming ROI gain as the global demand of TRDNT tokens increaases</p><p><br></p><p>\n</p><p>Our first milestone is to release a fully functional Server and Mobile App by the end of Q2 2018.&nbsp;</p><p>First immediate project will be the development and release of GPS Tracking App &amp; Server after the completion of Pre Early Birds Offering.</p><p>This is a multip-purpose GPS Laser Precision Tracking system with added visual and audio capabilities.&nbsp;</p><p><br></p><p>Immediate targeted users will be 6 millions professional and amateur drivers who are eager to subscribe to our services and also as TRDNT tokens holder.</p><p>\n</p><p><br></p></blockquote>",
+          "text": "<blockquote><p><b style=\"font-style: normal;\">VISION</b></p><p>With the help of blockchain technology and smart contracts, the whole process becomes as transparent and automated as possible, which makes the platform a strong extension of the existing industry and enables the use of crypto currency in real business.</p><p><br></p><p>Trident Ecolink is the first platform of its kind, and its economy assumes absolute transparency and absence of boundaries which provides new possibilities to monetize Marine Ecosystem thanks to the unique Trident (TRDNT) token. Trident (TRDNT) will be the main means of payment within the ecosystem\n and also may act as storage of value with massive forthcoming ROI gain as the global demand of TRDNT tokens increaases</p><p><br></p><p>\n</p><p>Our first milestone is to release a fully functional Server and Mobile App by the end of Q2 2018.&nbsp;</p><p>First immediate project will be the development and release of GPS Tracking App &amp; Server after the completion of Pre Early Birds Offering.</p><p>This is a multip-purpose GPS Laser Precision Tracking system with added visual and audio capabilities.&nbsp;</p><p><br></p><p>Immediate targeted users will be 6 millions professional and amateur drivers who are eager to subscribe to our services and also as TRDNT tokens holder.</p><p>\n</p><p><br></p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -548,7 +551,7 @@
             "H3": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "46px",
+              "font-size": "30px",
               "color": "#ffffff"
             }
           }
@@ -737,6 +740,11 @@
             "P": {
               "color": "#ffffff",
               "font-size": "20px"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px"
             }
           }
         },
@@ -796,13 +804,22 @@
             "Extension"
           ],
           "_name": "extProgressBar5",
-          "_anchor": "extProgressBar5-o"
+          "_anchor": "extProgressBar5-o",
+          "_styles": {
+            "H2": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "32px"
+            }
+          }
         },
         {
           "_styles": {
             ".mbr-section-title": {
               "color": "#fff",
-              "font-size": "32px"
+              "font-size": "25px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
             ".mbr-section-subtitle": {
               "color": "#ffffff"
@@ -992,8 +1009,8 @@
             "showTitle": true,
             "showLogo": true,
             "progress": 50,
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFooter1_bg.jpg",
             "parallax": false,
@@ -1421,7 +1438,8 @@
             },
             ".mbr-section-title": {
               "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px"
             }
           }
         }
@@ -1525,8 +1543,8 @@
             "showTitle": true,
             "showLogo": true,
             "progress": 50,
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFooter1_bg.jpg",
             "parallax": false,
@@ -1713,8 +1731,8 @@
             "showTitle": true,
             "showLogo": true,
             "progress": 50,
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFooter1_bg.jpg",
             "parallax": false,
