@@ -156,7 +156,7 @@
           "info2": "",
           "info3": "",
           "info4": "",
-          "table": "<thead><tr><th>Event</th><th>Amount</th><th>1 ETH</th></tr></thead><tbody><tr><td><b>Pre Early Birds</b></td><td><b>24 Million</b></td><td><b>30,000 CRDNT</b></td></tr><tr><td>Early Birds</td><td>26 Million</td><td>10,000 CRDNT</td></tr><tr><td>Pre ICO</td><td>30 Million</td><td>5,000 CRDNT</td></tr><tr><td>ICO</td><td>30 Million</td><td>3,000 CRDNT</td></tr></tbody>",
+          "table": "<thead><tr><th>Event</th><th>Amount</th><th>1 ETH</th></tr></thead><tbody><tr><td><b>Pre Early Birds</b></td><td><b>24 Million</b></td><td><b>30,000 TRDNT</b></td></tr><tr><td>Early Birds</td><td>26 Million</td><td>10,000 TRDNT</td></tr><tr><td>Pre ICO</td><td>30 Million</td><td>5,000 TRDNT</td></tr><tr><td>ICO</td><td>30 Million</td><td>3,000 TRDNT</td></tr></tbody>",
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
@@ -218,6 +218,36 @@
           ],
           "_name": "content5",
           "_anchor": "content5-19"
+        },
+        {
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/blue-economy-growth-bangladesh-infographics-1280x534.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Join the Pre Ear;y Birds investment opportunity and enjoy massive gain in the future token pice.<br>1 ETH = 30,000 &nbsp;TRDNT<br>Expected exchange listing price at USD $0.13<br>We are aiming for long term based price at USD $30 pertoken in 84 months<br><br>First immediate project will be the development and release of GPS Tracking App &amp; Server after the completion of Pre Early Birds Offering&nbsp;",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-k",
+          "_styles": {
+            "DIV": {
+              "color": "#f3c649",
+              "font-size": "20px"
+            }
+          }
         },
         {
           "_params": {
@@ -1038,27 +1068,6 @@
               "color": "#ffffff"
             }
           }
-        },
-        {
-          "_params": {
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-k"
         },
         {
           "_params": {
