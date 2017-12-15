@@ -60,7 +60,7 @@
             "showCountdown": true,
             "showForm": true,
             "showArrow": true,
-            "imageSize": "18",
+            "imageSize": "15",
             "countdown": "2018/01/01",
             "animText1": "ICO",
             "animText2": "Launching",
@@ -801,20 +801,24 @@
         {
           "_styles": {
             ".mbr-section-title": {
-              "color": "#fff"
+              "color": "#fff",
+              "font-size": "32px"
             },
             ".mbr-section-subtitle": {
               "color": "#ffffff"
             },
             ".feature-subtitle": {
               "color": "#ffffff"
+            },
+            "DIV": {
+              "color": "#f3c649"
             }
           },
           "_params": {
             "showTitle": true,
-            "showSubtitle": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "showSubtitle": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/extFeatures1/images/jumbotron.jpg",
             "parallax": false,
@@ -902,23 +906,23 @@
               "family": "et-line"
             }
           },
-          "title": "Trident GPS System",
+          "title": "1st Product<br>Trident GPS System<br>Log in Ledger<br>For divers &amp; snorkeler<br>Launching after completion of Pre Early Birds Offering",
           "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
-          "feature_title1": "Innovative ideas",
-          "feature_subtitle1": "Creative and intelligent solutions",
-          "feature_text1": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
-          "feature_title2": "Retina ready",
-          "feature_subtitle2": "High resolution screens friendly",
-          "feature_text2": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
+          "feature_title1": "6 million divers &amp; 20 million snorkelers",
+          "feature_subtitle1": "",
+          "feature_text1": "Huge business potential",
+          "feature_title2": "Strategy",
+          "feature_subtitle2": "",
+          "feature_text2": "Free usage for first 6 months. After that USD $10 annual recurrent subscription fee. Pay by TRDNT tokens&nbsp;",
           "feature_title3": "Translation ready",
           "feature_subtitle3": "Find a common language with anyone",
           "feature_text3": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
-          "feature_title4": "Totally responsive",
-          "feature_subtitle4": "Suits well all devices and screen sizes",
-          "feature_text4": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
-          "feature_title5": "Sharp solutions",
-          "feature_subtitle5": "Elaborated code and trendy design",
-          "feature_text5": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
+          "feature_title4": "User friendly",
+          "feature_subtitle4": "",
+          "feature_text4": "Easy installation and automatic calibration. Excellent user experience. Option of major languages",
+          "feature_title5": "Advanced Technology",
+          "feature_subtitle5": "",
+          "feature_text5": "Automatic connection to major diving &amp; snorkling camps to log in ledger records. Using laser precision GPS technology",
           "feature_title6": "Awesome parallax",
           "feature_subtitle6": "Enjoy smooth bg sliding on scroll",
           "feature_text6": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",

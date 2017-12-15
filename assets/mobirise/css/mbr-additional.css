@@ -816,12 +816,16 @@ h6,
 }
 #extFeatures1-b .mbr-section-title {
   color: #fff;
+  font-size: 32px;
 }
 #extFeatures1-b .mbr-section-subtitle {
   color: #ffffff;
 }
 #extFeatures1-b .feature-subtitle {
   color: #ffffff;
+}
+#extFeatures1-b DIV {
+  color: #f3c649;
 }
 #extAccordion1-1j H1 {
   color: #ffffff;
