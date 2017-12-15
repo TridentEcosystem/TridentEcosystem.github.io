@@ -189,7 +189,7 @@
               "color": "#ffffff"
             },
             ".mbr-section-title": {
-              "font-size": "36px"
+              "font-size": "25px"
             }
           },
           "_params": {
@@ -210,7 +210,7 @@
             "overlayColor": "#000",
             "overlayOpacity": "0.6"
           },
-          "title": "Trident <br>Pre Early Birds Offering<br>OX---------------------------------------",
+          "title": "Trident Pre Early Birds Offering<br>OX---------------------------------------",
           "caption": "<p>Closed door tokens offering. 1 ETH = 30,000 CRDNT tokens. Amount capped at 24 millions tokens. This is the earliest phase of crowdfunding offering. Funds collected will be used to developed completion of server nodes. Minimum investment is 1 ETH.&nbsp;</p><p>To contribute: Please send the desired amount of ETHER to contribution address <b>OX-----------------------------</b></p><p>Set Gas Price at 70 GWEI and Gas Limit at 200,000</p><p>Contributor shall receive tokens within 24 working hours. Tokens will be sent directly to the contributor's wallet address.&nbsp;</p><p>Please use myetherwallet or IMToken wallet to send your ETHER</p>",
           "_tags": [
             "Theme"
