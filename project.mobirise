@@ -236,7 +236,7 @@
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
-          "text": "<br>First immediate project will be the development and release of GPS Tracking App &amp; Server after the completion of Pre Early Birds Offering&nbsp;",
+          "text": "Marine Ecosystem Potential",
           "_tags": [
             "Theme"
           ],
@@ -245,7 +245,7 @@
           "_styles": {
             "DIV": {
               "color": "#ffffff",
-              "font-size": "20px"
+              "font-size": "16px"
             }
           }
         },
@@ -262,7 +262,7 @@
             "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extMsg-box1_bg.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "@primaryColor",
+            "bgColor": "#c0a375",
             "bgText": "Trident Early Birds Offering",
             "bgTextStyle": "Montserrat",
             "bgTextColor": "#b69869",
@@ -297,7 +297,7 @@
             }
           },
           "title": "What is Trident Token?",
-          "text": "Media block with animated text background. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam ducimus reiciendis quaerat architecto. Molestias enim sequi, et alias ipsam voluptate!",
+          "text": "Trident token (TRDNT) serves as the only denominating cryptocurrency commonly used in the Trident Ecolink Platform. The supply is permanently fixed at 131 millions tokens only. It is an ETHEREUM ERC20 compatible utulity token. <br><br>Users will need to use Trident tokens to pay for servie subscription, hardware purchase, software purchase and other related services. Early investors will have an opportunity to earn a high ROI while holding the tokens as we develop our projects according to our roadmap which increase the global demand of the TRDNT as both utility tokens and also as storage of value.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SUBSCRIBE</a>",
           "bgTextP": "ANIMATED TEXT BACKGROUND",
           "alias": "mobirise3-blocks/components",
@@ -406,9 +406,9 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "showVideo": true,
+            "showVideo": false,
             "VideoUrl": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
-            "showArrow": true,
+            "showArrow": false,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/129651-2000x1500.jpg",
             "parallax": false,
@@ -420,12 +420,12 @@
             },
             "overlay": true,
             "overlayColor": "#fff",
-            "overlayOpacity": "0.2"
+            "overlayOpacity": "0.1"
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/play-button.svg"
+              "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/play-button.svg"
             },
             "iconFont": {
               "active": false,
@@ -438,9 +438,9 @@
             }
           },
           "title": "Marine Ecosystem",
-          "text": "Marine ecosystems are among the largest of Earth's aquatic ecosystems. Examples include salt marshes, intertidal zones, estuaries, lagoons, mangroves, coral reefs, the deep sea, and the sea floor. They can be contrasted with freshwater ecosystems, which have a lower salt content. Marine Ecosystem has probably the best investment potential &amp; returns in the coming future.",
+          "text": "Marine ecosystems are among the largest of Earth's aquatic ecosystems. Examples include salt marshes, intertidal zones, estuaries, lagoons, mangroves, coral reefs, the deep sea, and the sea floor. They can be contrasted with freshwater ecosystems, which have a lower salt content. Marine Ecosystem has probably the best investment potential &amp; returns in the coming future.<br><br>As sea level water rising due to climatic change and diminishing land scale, human will eventually adapt to sea surface enviorment and integrate to the marine oceanic ecosystem. Sea ecosystem is the natural next step in the digital transformation of the marine industry. Several new business initiatives in the maritime traffic have already been started and can be expected in the future. Many companies and organisations will be collaborating in their respective fields to ensures a well-researched, tested and highly capable marine driven network”, ",
           "text2": "<label class=\"startPreset\" for=\"modal\">Watch Video</label>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Whitepaper</a>",
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
