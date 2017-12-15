@@ -697,6 +697,12 @@ h6,
 #content5-19 .mbr-section-title {
   font-size: 24px;
 }
+#extMsg-box1-1a H3 {
+  font-size: 25px;
+}
+#extMsg-box1-1a P {
+  font-size: 20px;
+}
 #ext_menu-i .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -757,6 +763,12 @@ h6,
 #ext_menu-i .link[aria-expanded="true"],
 #ext_menu-i .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#extHeader5-6 H3 {
+  font-size: 48px;
+}
+#extHeader5-6 P {
+  color: #d5f2f7;
 }
 #extFeatures1-b .mbr-section-title {
   color: #fff;

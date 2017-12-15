@@ -25,7 +25,8 @@
         "#f4f4f4",
         "#52a4d6",
         "#1f658f",
-        "#333333"
+        "#333333",
+        "#d5f2f7"
       ]
     },
     "versionFirst": "4.4.1",
@@ -265,7 +266,7 @@
               "size": 250
             }
           },
-          "title": "Whats is Trident Token?",
+          "title": "What is Trident Token?",
           "text": "Media block with animated text background. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam ducimus reiciendis quaerat architecto. Molestias enim sequi, et alias ipsam voluptate!",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SUBSCRIBE</a>",
           "bgTextP": "ANIMATED TEXT BACKGROUND",
@@ -274,7 +275,15 @@
             "Extension"
           ],
           "_name": "extMsg-box1",
-          "_anchor": "extMsg-box1-1a"
+          "_anchor": "extMsg-box1-1a",
+          "_styles": {
+            "H3": {
+              "font-size": "25px"
+            },
+            "P": {
+              "font-size": "20px"
+            }
+          }
         },
         {
           "_inherit": "menu",
@@ -398,8 +407,8 @@
               "family": "et-line"
             }
           },
-          "title": "AQUA Ecosystem",
-          "text": "Full-screen intro with background image and video popup. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
+          "title": "Marine Ecosystem",
+          "text": "Marine ecosystems are among the largest of Earth's aquatic ecosystems. Examples include salt marshes, intertidal zones, estuaries, lagoons, mangroves, coral reefs, the deep sea, and the sea floor. They can be contrasted with freshwater ecosystems, which have a lower salt content. Marine Ecosystem has probably the best investment potential &amp; returns in the coming future",
           "text2": "<label class=\"startPreset\" for=\"modal\">Watch Video</label>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "alias": "mobirise3-blocks/components",
@@ -407,7 +416,15 @@
             "Extension"
           ],
           "_name": "extHeader5",
-          "_anchor": "extHeader5-6"
+          "_anchor": "extHeader5-6",
+          "_styles": {
+            "H3": {
+              "font-size": "48px"
+            },
+            "P": {
+              "color": "#d5f2f7"
+            }
+          }
         },
         {
           "_params": {
