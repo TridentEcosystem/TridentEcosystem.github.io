@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.4.1",
-    "uniqCompNum": 60,
+    "uniqCompNum": 65,
     "versionPublish": "4.4.1",
     "favicon": "",
     "noImageResize": "",
@@ -489,6 +489,29 @@
               "font-size": "20px"
             }
           }
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "https://youtu.be/G0PBQ8PdFWs",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-1s"
         },
         {
           "_params": {
@@ -972,8 +995,8 @@
           },
           "title": "Accordion FAQ",
           "title1": "<a role=\"button\" class=\"text-white\" data-toggle=\"collapse\" data-parent=\"#accordion_14\" data-core=\"\" href=\"#collapseOne_14\" aria-expanded=\"true\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>What is Trident tokens?</a>",
-          "title2": "<a role=\"button\" class=\"text-white\" data-toggle=\"collapse\" data-parent=\"#accordion_13\" data-core=\"\" href=\"#collapseTwo_13\" aria-expanded=\"true\" aria-controls=\"collapseTwo\">Products?</a>",
-          "title3": "<a role=\"button\" class=\"text-white\" data-toggle=\"collapse\" data-parent=\"#accordion_13\" data-core=\"\" href=\"#collapseThree_13\" aria-expanded=\"true\" aria-controls=\"collapseThree\">Good Investment?</a>",
+          "title2": "<a role=\"button\" class=\"text-white\" data-toggle=\"collapse\" data-parent=\"#accordion_12\" data-core=\"\" href=\"#collapseTwo_12\" aria-expanded=\"true\" aria-controls=\"collapseTwo\">Products?</a>",
+          "title3": "<a role=\"button\" class=\"text-white\" data-toggle=\"collapse\" data-parent=\"#accordion_12\" data-core=\"\" href=\"#collapseThree_12\" aria-expanded=\"true\" aria-controls=\"collapseThree\">Good Investment?</a>",
           "title4": "",
           "title5": "",
           "title6": "<a role=\"button\" class=\"text-white\" data-toggle=\"collapse\" data-parent=\"#accordion_14\" data-core=\"\" href=\"#collapseSix_14\" aria-expanded=\"true\" aria-controls=\"collapseSix\">Team Member</a>",
@@ -1024,7 +1047,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.4
           },
-          "list": "<ul><a href=\"https://github.com/TridentEcosystem/code\" class=\"text-warning\">Github </a>/ <a href=\"https://www.facebook.com/Trident-Ecolink-198975324009895\">Facebook </a>/ <a href=\"https://twitter.com/Trident_Ecolink\">Twitter </a>/ <a href=\"mailto:tridentecolink@gmail.com\" class=\"text-warning\">Email </a>/ <a href=\"page1.html\" class=\"text-warning\">Terms &amp; Conditions</a>&nbsp;/ <a href=\"page2.html\" class=\"text-warning\">Whitepaper</a></ul><ul>Levels 2-4, 318 Lambton Quay, Wellington, 6011 \n</ul><ul>​PO Box 25175 Wellington, NZ</ul><br><ul><li></li></ul>",
+          "list": "<ul><a href=\"https://github.com/TridentEcosystem/code\" class=\"text-warning\">Github </a>/ <a href=\"https://www.facebook.com/Trident-Ecolink-198975324009895\">Facebook </a>/ <a href=\"mailto:tridentecolink@gmail.com\" class=\"text-warning\">Email </a>/ <a href=\"page1.html\" class=\"text-warning\">Terms &amp; Conditions</a>&nbsp;/ <a href=\"page2.html\" class=\"text-warning\">Whitepaper</a></ul><ul>Levels 2-4, 318 Lambton Quay, Wellington, 6011 \n</ul><ul>​PO Box 25175 Wellington, NZ</ul><br><ul><li></li></ul>",
           "title": "Trident Ecolink",
           "media": {
             "image": {
@@ -1445,7 +1468,7 @@
         },
         {
           "_params": {
-            "showText": true
+            "showText": false
           },
           "media": {
             "image": {
@@ -1582,7 +1605,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.4
           },
-          "list": "<ul><a href=\"https://github.com/TridentEcosystem/code\" class=\"text-warning\">Github </a>/ <a href=\"https://www.facebook.com/Trident-Ecolink-198975324009895\">Facebook </a>/ <a href=\"https://twitter.com/Trident_Ecolink\">Twitter </a>/ <a href=\"mailto:tridentecolink@gmail.com\" class=\"text-warning\">Email </a>/ <a href=\"page1.html\" class=\"text-warning\">Terms &amp; Conditions</a>&nbsp;/ <a href=\"page2.html\" class=\"text-warning\">Whitepaper</a></ul><ul>Levels 2-4, 318 Lambton Quay, Wellington, 6011 \n</ul><ul>​PO Box 25175 Wellington, NZ</ul><br><ul><li></li></ul>",
+          "list": "<ul><a href=\"https://github.com/TridentEcosystem/code\" class=\"text-warning\">Github </a>/ <a href=\"https://www.facebook.com/Trident-Ecolink-198975324009895\">Facebook </a>/ <a href=\"mailto:tridentecolink@gmail.com\" class=\"text-warning\">Email </a>/ <a href=\"page1.html\" class=\"text-warning\">Terms &amp; Conditions</a>&nbsp;/ <a href=\"page2.html\" class=\"text-warning\">Whitepaper</a></ul><ul>Levels 2-4, 318 Lambton Quay, Wellington, 6011 \n</ul><ul>​PO Box 25175 Wellington, NZ</ul><br><ul><li></li></ul>",
           "title": "Trident Ecolink",
           "media": {
             "image": {
@@ -1770,7 +1793,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.4
           },
-          "list": "<ul><a href=\"https://github.com/TridentEcosystem/code\" class=\"text-warning\">Github </a>/ <a href=\"https://www.facebook.com/Trident-Ecolink-198975324009895\">Facebook </a>/ <a href=\"https://twitter.com/Trident_Ecolink\">Twitter </a>/ <a href=\"mailto:tridentecolink@gmail.com\" class=\"text-warning\">Email </a>/ <a href=\"page1.html\" class=\"text-warning\">Terms &amp; Conditions</a>&nbsp;/ <a href=\"page2.html\" class=\"text-warning\">Whitepaper</a></ul><ul>Levels 2-4, 318 Lambton Quay, Wellington, 6011 \n</ul><ul>​PO Box 25175 Wellington, NZ</ul><br><ul><li></li></ul>",
+          "list": "<ul><a href=\"https://github.com/TridentEcosystem/code\" class=\"text-warning\">Github </a>/ <a href=\"https://www.facebook.com/Trident-Ecolink-198975324009895\">Facebook </a>/ <a href=\"mailto:tridentecolink@gmail.com\" class=\"text-warning\">Email </a>/ <a href=\"page1.html\" class=\"text-warning\">Terms &amp; Conditions</a>&nbsp;/ <a href=\"page2.html\" class=\"text-warning\">Whitepaper</a></ul><ul>Levels 2-4, 318 Lambton Quay, Wellington, 6011 \n</ul><ul>​PO Box 25175 Wellington, NZ</ul><br><ul><li></li></ul>",
           "title": "Trident Ecolink",
           "media": {
             "image": {
