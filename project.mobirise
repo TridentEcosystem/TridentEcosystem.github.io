@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "4.4.1",
-    "uniqCompNum": 27,
+    "uniqCompNum": 31,
     "versionPublish": "4.4.1",
     "favicon": "",
     "noImageResize": "",
@@ -1133,6 +1133,188 @@
           ],
           "_name": "image1",
           "_anchor": "image1-q"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "meta_descr": "Web Site Builder Description",
+        "title": "Terms and Conditions",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "bgColor": "#1f658f",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">FEATURES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Whitepaper</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#164765"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#1c5c82!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#1f658f"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo5-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Trident Ecolink</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-r"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showLogo": true,
+            "progress": 50,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFooter1_bg.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#52a4d6",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.4
+          },
+          "list": "<ul>Github / Facebook / Twitter / Email /&nbsp;</ul><ul>Levels 2-4, 318 Lambton Quay, Wellington, 6011 \n</ul><ul>​PO Box 25175 Wellington, NZ</ul><br><ul><li></li></ul>",
+          "title": "Trident Eco Link",
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/logo5-150x150.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFooter1",
+          "_styles": {
+            "UL": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "extFooter1-t"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Terms &amp; Conditions<br><br>",
+          "text": "Trident Ecolink- Terms &amp; Conditions\n<div>&nbsp;\n</div><div>Please read carefully these Terms and Conditions (hereinafter – the “Terms”) before using the website www.trident-ecolink.com (hereinafter – the “Website”), as they act your obligations and legal rights, including, but not limited to waivers of rights and limitation of liability. By participating in the upcoming TRIDENT Token Sale, you should also read these Terms and accept them. If you do not agree with these Terms, you shall not buy TRIDENT Token.\n</div><div>&nbsp;\n</div><div>Nature of Token Use \n</div><div>TRIDENT token (hereinafter ‘smart contract’ or ‘software’) is a revolutionary platform deployed and working on the Ethereum blockchain. This software is being developed and deployed by TRIDENT token Developers. TRIDENT token tokens (hereinafter ‘tokens’) are part of the software and ensure its interaction with the Network. By using our services, including it’s tokens you expressly acknowledge and represent that you (hereinafter ‘User’ or ‘you’) have carefully reviewed and accepted this agreement between you as a User and the Company. The software we provide, including tokens is provided “as is”, and is free of any kind of warranty, empress or implied, including the warranties of merchantability, fitness for a particular purpose and non-infringement. In no even shall us, as the authors be liable for damages, claims or any other liabilities, be it in an action of contract, tort of otherwise, arising from the tokens or platform.\n</div><div>&nbsp;\n</div><div>The TRIDENT token Team Will Not Purchase our Own Tokens During The Token Sale.\n</div><div>The TRIDENT token Team warrants that it will not purchase TRIDENT Tokens in its own sale. Furthermore, The Team warrants that it will not purchase the tokens from any third party, or acquire the tokens in any manner, or acquire future control of the tokens during the period of the Token Sale.\n</div><div>&nbsp;\n</div><div>Disclosure of Purchases\n</div><div>&nbsp;In order to promote transparency, and to enable purchasers to have as much information as possible to guide their decision-making process, the TRIDENT token Team will disclose the total number of tokens sold on both the TRIDENT token websites and social outlets on a daily basis. This is do to enable the purchaser to develop an understanding of the size of the existing token pool at the time of their purchase.\n</div><div>&nbsp;\n</div><div>Non-Refundable \n</div><div>All Purchases of TRIDENT token are Non-Refundable and final. Upon purchasing our tokens the purchaser acknowledges that the TRIDENT token team and relevant parties are in no way required to provide a refund for any reason and no compensation will be provided for unused tokens.\n</div><div>&nbsp;\n</div><div>Taxation \n</div><div>The purchaser will bear sole responsibility to determine if the purchase of a TRIDENT token or potential appreciation/depreciation in the value of the token over time has tax implications for the purchaser in their home jurisdiction. By purchasing TRIDENT token, and to the extent permitted by law, the purchaser agrees not to hold any of the The TRIDENT Token Team &amp; Parties liable for any tax liability associated with or arising from the token purchase.\n</div><div>&nbsp;\n</div><div>Governing Juridiction \n</div><div>Those participating in the TRIDENT Token Sale shall be solely responsible for complying with the laws of their respective jurisdictions as it pertains to digital currencies, tokens, securities, digital currency investments and the like. TRIDENT token suggests that you do not participate in our Token Sale if it is restricted in your jurisdiction.\n</div><div>&nbsp;\n</div><div>Purchaser Privacy\n</div><div>Although the TRIDENT token Team requires that purchasers provide proof of identity, the TRIDENT token Team will not publish any identifying information related to a purchase of our token, without the prior written consent of the purchaser. Purchasers may be contacted by email by the TRIDENT tokenTeam regarding a purchase. Such emails will be informational only. The TRIDENT Token Team &amp; Parties will not request any information from Purchasers in an email.\n</div><div>&nbsp;\n</div><div>Disclaimer of Warranties \n</div><div>The purchaser expressly agrees that the purchaser is purchasing TRIDENT Tokens at the purchaser’s own sole risk and that the Tokens are provided on an ‘as is’ basis without warranties of ANY KIND, EITHER EXPRESS OR IMPLIED, including warranties of title or implied warranties, merchant-ability or fitness for a particular purpose.\n</div><div>&nbsp;\n</div><div>Limitations Waiver of Liability \n</div><div>The purchaser acknowledges and agrees that, to the fullest extent permitted by any applicable law, the disclaimer of liability contained herein, apply to ANY AND ALL DAMAGES OR INJURY WHAT Token or the TRIDENT Token Team under any cause or action of any kind, in any jurisdiction - including actions for breach of warranty, breach of contract or tort and the TRIDENT Token team shall be liable for any incidental, indirect special, consequential and exemplary damages.\n</div><div>&nbsp;\n</div><div>Force Majeure \n</div><div>The TRIDENT Token Team is not liable for failure to perform solely caused by the following, and the party experiencing the force majeure circumstances shall cooperate with and assist the injured party in all reasonable ways to minimize the impact of force majeure on the injured party.\n</div><div>● government orders,\n</div><div>● acts of civil or military authorities,\n</div><div>● unavoidable casualty,\n</div><div>● embargoes,\n</div><div>● acts by common carriers,\n</div><div>● emergency conditions,\n</div><div>● or any similar unforeseeable events.\n</div><div>&nbsp;\n</div><div>Complete Agreement\n</div><div>These Terms set forth the entire understanding between each purchaser and the TRIDENT Token Team with respect to the purchase and sale of the TRIDENT Token. For facts relating to the sale and purchase, the purchaser agrees to rely only on this document and information provided on the website, in determining purchase decisions, and understands that these documents govern the sale of The TRIDENT Token and supersede any public statements about the Token Sale made by third parties or by theTRIDENT Token Team or individuals associated with any of the TRIDENT Token Team &amp; Parties, past and present and during the Token Sale.</div>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Back to Main Page</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-u"
         }
       ]
     }
