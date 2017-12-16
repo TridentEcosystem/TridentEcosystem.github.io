@@ -274,7 +274,7 @@
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": true,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extMsg-box1_bg.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-extmsg-box1-bg.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#c0a375",
@@ -609,17 +609,17 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "parallax": false,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#90a878",
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extHeader14_bg.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1622x1080.jpg",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
             "overlayColor": "#151515",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.9"
           },
           "mainTitle": "Project Roadmap",
           "mainSubtitle": "One great step to the future. Roadmap will be revised regularly",
