@@ -270,7 +270,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": "20",
+            "imageSize": "56",
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": true,
@@ -293,10 +293,11 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/logo4-500x500.png",
+              "src": "@PROJECT_PATH@/assets/images/trident-peb2-871x314.png",
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "active": true
             },
             "video": {
               "src": "https://youtu.be/G0PBQ8PdFWs",
@@ -310,8 +311,7 @@
               "name": "sun2",
               "family": "MobiriseIcons",
               "link": "",
-              "size": "188",
-              "active": true
+              "size": "188"
             }
           },
           "title": "What is Trident Token?",
