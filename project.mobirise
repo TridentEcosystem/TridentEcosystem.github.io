@@ -891,6 +891,10 @@
             },
             "P": {
               "font-size": "18px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
           },
           "_params": {
@@ -985,7 +989,7 @@
               "family": "et-line"
             }
           },
-          "title": "<span style=\"font-weight: normal;\">1st Product<br>Trident GPS System<br>Log in Ledger<br>For divers &amp; snorkeler<br>Launching after completion of Pre Early Birds Offering</span>",
+          "title": "<span style=\"font-weight: normal;\">First Product<br>Trident GPS System<br>Log in Ledger<br>For divers &amp; snorkeler<br>(Launching after completion of the Pre Early Birds Offering)</span>",
           "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
           "feature_title1": "<span style=\"font-weight: normal;\">6 million divers &amp; 20 million snorkelers</span>",
           "feature_subtitle1": "",
