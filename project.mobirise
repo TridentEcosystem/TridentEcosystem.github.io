@@ -535,7 +535,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "imageSize": 90,
+            "imageSize": "84",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/img-extheader6-bg.jpg",
             "parallax": true,
@@ -547,11 +547,10 @@
             },
             "overlay": true,
             "overlayColor": "#2969b0",
-            "overlayOpacity": "0.6"
+            "overlayOpacity": "0.7"
           },
           "media": {
             "image": {
-              "active": true,
               "src": "@PROJECT_PATH@/assets/images/invest-carnival-banner-m.gif",
               "link": "",
               "alt": "",
@@ -559,11 +558,13 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "pencil",
+              "linkInNewWindow": false,
+              "name": "cash",
+              "family": "MobiriseIcons",
               "link": "#modalWindow",
               "size": 0,
               "color": "#e6e6e6",
-              "family": "et-line"
+              "active": true
             },
             "video": {
               "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
@@ -573,7 +574,7 @@
             }
           },
           "title": "Investment Perpective",
-          "text": "1. If you had invested USD $100 in Bitcoin (BTC) in 2011. At current time of writing, you would have vested USD $ 4.2 millions worth of Bitcoin<br><br>2. Invest 10% of your networth in diversified portfolio of Cryptocurrency and ICO. Tucked them away safely for 5 years. You may enjoy a nice suprise<br><br><br><br>",
+          "text": "1. If you had invested USD $100 in Bitcoin (BTC) in 2011. At current time of writing, you would have vested USD $ 4.2 millions worth of Bitcoin<br><br>2. Invest 10% of your networth in a diversified portfolio of Cryptocurrency and ICO. Tucked them away safely for 5 years. You may enjoy a nice suprise<br><br><br>",
           "text2": "<label class=\"blackColor\" for=\"modal\">Watch Video</label>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "DualButtons": "<a data-app-btn=\"true\" class=\"btn btn-primary\">DOWNLOAD FOR WIN</a> <a data-app-btn=\"true\" class=\"btn btn-info\">DOWNLOAD FOR MAC</a>",
