@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.4.1",
-    "uniqCompNum": 65,
+    "uniqCompNum": 82,
     "versionPublish": "4.4.1",
     "favicon": "",
     "noImageResize": "",
@@ -45,7 +45,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Trident Ecolink Platform",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -619,7 +619,7 @@
             },
             "overlay": true,
             "overlayColor": "#151515",
-            "overlayOpacity": "0.9"
+            "overlayOpacity": "0.8"
           },
           "mainTitle": "Project Roadmap",
           "mainSubtitle": "One great step to the future. Roadmap will be revised regularly",
@@ -1549,7 +1549,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Terms and Conditions",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -1738,7 +1738,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Whitepaper",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
