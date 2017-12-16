@@ -6,7 +6,7 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#c0a375",
+        "primaryColor": "#bf98fd",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
@@ -21,13 +21,13 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#bf98fd",
         "#e3eff4",
         "#f4f4f4",
         "#52a4d6",
         "#1f658f",
         "#333333",
-        "#d5f2f7",
-        "#a0a0a0"
+        "#d5f2f7"
       ]
     },
     "versionFirst": "4.4.1",
