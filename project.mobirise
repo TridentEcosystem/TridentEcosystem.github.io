@@ -224,7 +224,7 @@
             "overlayColor": "#2b0680",
             "overlayOpacity": "0.6"
           },
-          "title": "Trident Pre Early Birds Offering<br><br>xxxxxxxxxxxxxxxxxxxxxxxxx",
+          "title": "<span style=\"font-weight: normal;\">Trident Pre Early Birds Offering<br></span><br><span style=\"font-weight: normal;\">xxxxxxxxxxxxxxxxxxxxxxxxx</span>",
           "caption": "<p>Closed door tokens offering. 1 ETH = 30,000 CRDNT tokens. Amount capped at 24 millions tokens. This is the earliest phase of crowdfunding offering. Funds collected will be used to developed completion of server nodes. Minimum investment is 1 ETH.&nbsp;</p><p>To contribute: Please send the desired amount of ETHER to contribution address:</p><p>xxxxxxxxxxxxxxxxxxxxxxxxx</p><p>Set Gas Price at 70 GWEI and Gas Limit at 200,000</p><p>Contributor shall receive tokens within 24 working hours. Tokens will be sent directly to the contributor's wallet address.&nbsp;</p><p>Please use myetherwallet or IMToken wallet to send your ETHER</p><p>Join the Pre Ear;y Birds investment opportunity and enjoy massive gain in the future token pice.\n</p><p>1 ETH = 30,000  TRDNT\n</p><p>Expected exchange listing price at USD $0.13\n</p><p>We are aiming for long term baseline price at USD $180 - $300 pertoken in 84-96 months</p>",
           "_tags": [
             "Theme"
@@ -535,7 +535,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "imageSize": "84",
+            "imageSize": "60",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/img-extheader6-bg.jpg",
             "parallax": true,
@@ -551,10 +551,11 @@
           },
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/invest-carnival-banner-m.gif",
+              "src": "@PROJECT_PATH@/assets/images/tri2-700x700.png",
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
@@ -563,8 +564,7 @@
               "family": "MobiriseIcons",
               "link": "#modalWindow",
               "size": 0,
-              "color": "#e6e6e6",
-              "active": true
+              "color": "#e6e6e6"
             },
             "video": {
               "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
