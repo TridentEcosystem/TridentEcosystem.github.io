@@ -270,25 +270,25 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": "21",
+            "imageSize": "20",
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extMsg-box1_bg.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-extmsg-box1-bg.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#c0a375",
             "bgText": "Trident Early Birds Offering",
             "bgTextStyle": "Montserrat",
             "bgTextColor": "#b69869",
-            "bgTextSize": 250,
+            "bgTextSize": "200",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.7
+            "overlayColor": "#41a85f",
+            "overlayOpacity": "0.9"
           },
           "media": {
             "image": {
@@ -302,17 +302,20 @@
               "src": "https://youtu.be/G0PBQ8PdFWs",
               "aspectratio": "16:9",
               "autoplay": false,
-              "loop": false,
-              "active": true
+              "loop": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-header2",
+              "linkInNewWindow": false,
+              "name": "sun2",
+              "family": "MobiriseIcons",
               "link": "",
-              "size": 250
+              "size": 250,
+              "active": true
             }
           },
           "title": "What is Trident Token?",
-          "text": "<span style=\"font-style: normal;\">Trident token (TRDNT) serves as the only denominating cryptocurrency commonly used in the Trident Ecolink Platform. The supply is permanently fixed at 131 millions tokens only. It is an ETHEREUM ERC20 compatible utulity token. <br><br>Users will need to use Trident tokens to pay for servie subscription, hardware purchase, software purchase and other related services. Early investors will have an opportunity to earn a high ROI while holding the tokens as we develop our projects according to our roadmap which increase the global demand of the TRDNT as both utility tokens and also as storage of value.&nbsp;</span>",
+          "text": "<span style=\"font-style: normal;\">Trident token (TRDNT) serves as the only denominating cryptocurrency commonly used in the Trident Ecolink Platform. The supply is permanently fixed at 131 millions tokens only. It is an ETHEREUM ERC20 compatible utulity token. <br><br>1) As medium of currency for payment &amp; subscription purposes. Users will need to use Trident tokens to pay for servie subscription, hardware purchase, software purchase and other related services. </span><br><span style=\"font-style: normal;\">2) Early investors will have an opportunity to earn a high ROI while holding the tokens as we develop our projects according to our roadmap which increase the global demand of the TRDNT as both utility tokens and also as storage of value.&nbsp;</span>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SUBSCRIBE</a>",
           "bgTextP": "ANIMATED TEXT BACKGROUND",
           "alias": "mobirise3-blocks/components",
