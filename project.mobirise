@@ -234,7 +234,7 @@
         },
         {
           "_params": {
-            "showText": true
+            "showText": false
           },
           "media": {
             "image": {
@@ -312,7 +312,7 @@
             }
           },
           "title": "What is Trident Token?",
-          "text": "Trident token (TRDNT) serves as the only denominating cryptocurrency commonly used in the Trident Ecolink Platform. The supply is permanently fixed at 131 millions tokens only. It is an ETHEREUM ERC20 compatible utulity token. <br><br>Users will need to use Trident tokens to pay for servie subscription, hardware purchase, software purchase and other related services. Early investors will have an opportunity to earn a high ROI while holding the tokens as we develop our projects according to our roadmap which increase the global demand of the TRDNT as both utility tokens and also as storage of value.&nbsp;",
+          "text": "<span style=\"font-style: normal;\">Trident token (TRDNT) serves as the only denominating cryptocurrency commonly used in the Trident Ecolink Platform. The supply is permanently fixed at 131 millions tokens only. It is an ETHEREUM ERC20 compatible utulity token. <br><br>Users will need to use Trident tokens to pay for servie subscription, hardware purchase, software purchase and other related services. Early investors will have an opportunity to earn a high ROI while holding the tokens as we develop our projects according to our roadmap which increase the global demand of the TRDNT as both utility tokens and also as storage of value.&nbsp;</span>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SUBSCRIBE</a>",
           "bgTextP": "ANIMATED TEXT BACKGROUND",
           "alias": "mobirise3-blocks/components",
@@ -323,12 +323,14 @@
           "_anchor": "extMsg-box1-1a",
           "_styles": {
             "H3": {
-              "font-size": "23px",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "font-size": "21px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             "P": {
-              "font-size": "20px"
+              "font-size": "18px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
           }
         },
@@ -455,7 +457,7 @@
             }
           },
           "title": "Marine Ecosystem",
-          "text": "Marine Ecosystem has probably the best investment potential &amp; returns in the coming future.<br><br>Marine ecosystems are among the largest of Earth's aquatic ecosystems. Examples include salt marshes, intertidal zones, estuaries, lagoons, mangroves, coral reefs, the deep sea, and the sea floor. They can be contrasted with freshwater ecosystems, which have a lower salt content.&nbsp;<br><br>As sea level water rising due to climatic change and diminishing land scale, human will eventually adapt to sea surface enviorment and integrate to the marine oceanic ecosystem. Sea ecosystem is the natural next step in the digital transformation of the marine industry. Several new business initiatives in the maritime traffic have already been started and can be expected in the future. Many companies and organisations will be collaborating in their respective fields to ensures a well-researched, tested and highly capable marine driven network”, ",
+          "text": "<span style=\"font-style: normal;\">Marine Ecosystem has probably the best investment potential &amp; returns in the coming future.<br><br>Marine ecosystems are among the largest of Earth's aquatic ecosystems. Examples include salt marshes, intertidal zones, estuaries, lagoons, mangroves, coral reefs, the deep sea, and the sea floor. They can be contrasted with freshwater ecosystems, which have a lower salt content.&nbsp;<br><br>As sea level water rising due to climatic change and diminishing land scale, human will eventually adapt to sea surface enviorment and integrate to the marine oceanic ecosystem. Sea ecosystem is the natural next step in the digital transformation of the marine industry. Several new business initiatives in the maritime traffic have already been started and can be expected in the future. Many companies and organisations will be collaborating in their respective fields to ensures a well-researched, tested and highly capable marine driven network”, </span>",
           "text2": "<label class=\"startPreset\" for=\"modal\">Watch Video</label>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Whitepaper</a>",
           "alias": "mobirise3-blocks/components",
@@ -466,14 +468,16 @@
           "_anchor": "extHeader5-6",
           "_styles": {
             "H3": {
-              "font-size": "30px",
+              "font-size": "24px",
               "color": "#d5f2f7",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             "P": {
               "color": "#ffffff",
-              "font-size": "20px"
+              "font-size": "18px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
           }
         },
@@ -483,7 +487,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p><b style=\"font-style: normal;\">VISION</b></p><p>With the help of blockchain technology and smart contracts, the whole process becomes as transparent and automated as possible, which makes the platform a strong extension of the existing industry and enables the use of crypto currency in real business.</p><p><br></p><p><b>Trident Ecolink is the first platform of its kind, and its economy assumes absolute transparency and absence of boundaries which provides new possibilities to monetize Marine Ecosystem thanks to the unique Trident (TRDNT) token. Trident (TRDNT) will be the main means of payment within the ecosystem\n and also may act as storage of value with massive forthcoming ROI gain as the global demand of TRDNT tokens increaases</b></p><p><br></p><p>\n</p><p>Our first milestone is to release a fully functional Server and Mobile App by the end of Q2 2018.&nbsp;</p><p>First immediate project will be the development and release of GPS Tracking App &amp; Server after the completion of Pre Early Birds Offering.</p><p>This is a multip-purpose GPS Laser Precision Tracking system with added visual and audio capabilities.&nbsp;</p><p><br></p><p>Immediate targeted users will be 6 millions professional and amateur drivers who are eager to subscribe to our services and also as TRDNT tokens holder.</p><p>\n</p><p><br></p></blockquote>",
+          "text": "<blockquote><p><b style=\"font-style: normal;\">VISION &amp; Mission</b></p><p><span style=\"font-style: normal;\">With the help of blockchain technology and smart contracts, the whole process becomes as transparent and automated as possible, which makes the platform a strong extension of the existing industry and enables the use of crypto currency in real business.</span></p><p><br></p><p><b>Trident Ecolink is the first platform of its kind, and its economy assumes absolute transparency and absence of boundaries which provides new possibilities to monetize Marine Ecosystem thanks to the unique Trident (TRDNT) token. Trident (TRDNT) will be the main means of payment within the ecosystem\n and also may act as storage of value with massive forthcoming ROI gain as the global demand of TRDNT tokens increaases</b></p><p><br></p><p>\n</p><p><span style=\"font-style: normal;\">Our first milestone is to release a fully functional Server and Mobile App by the end of Q2 2018.&nbsp;</span></p><p><span style=\"font-style: normal;\">First immediate project will be the development and release of GPS Tracking App &amp; Server after the completion of Pre Early Birds Offering.</span></p><p><span style=\"font-style: normal;\">This is a multip-purpose GPS Laser Precision Tracking system with added visual and audio capabilities.&nbsp;</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">Immediate targeted users will be 6 millions professional and amateur drivers who are eager to subscribe to our services and also as TRDNT tokens holder.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p>(This project is up and running because of the dreamed vision of one man)&nbsp;</p><p>\n</p><p><br></p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -491,6 +495,11 @@
           "_anchor": "content2-17",
           "_styles": {
             "BLOCKQUOTE": {
+              "font-size": "20px"
+            },
+            "P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "20px"
             }
           }
@@ -574,12 +583,15 @@
           "_styles": {
             "P": {
               "text-align": "left",
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "20px"
             },
             "H3": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "30px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "23px",
               "color": "#ffffff"
             }
           }
@@ -606,7 +618,7 @@
             "overlayOpacity": 0.5
           },
           "mainTitle": "Project Roadmap",
-          "mainSubtitle": "One more step to the future",
+          "mainSubtitle": "One great step to the future. Roadmap will revised constantly",
           "title1": "1. &nbsp;Q1 2018",
           "title2": "2. Q2 2018",
           "title3": "3. Q3 2018",
@@ -620,7 +632,7 @@
           "title11": "11. Design out of the box",
           "title12": "12. Awesome Reports",
           "text1": "Launching Pre Early Birds event<br>Priced at 1 ETH = 30,000 Tokens<br>Cloded Door Event<br><br>",
-          "text2": "Launching Early Birds Event<br>Priced at 1 ETH = 10,000 Tokens<br>Closed Door Event<br>Server and Software Development",
+          "text2": "Launching Early Birds Event<br>Priced at 1 ETH = 10,000 Tokens<br>Closed Door Event<br>Server and Software Development<br><b>Release GPS Apps for divers &amp; snorkelers with laser precision and log in ledger</b>",
           "text3": "01 July 2018. Pre-ICO<br>15 July 2018. ICO<br>Server and Software Testing<br>",
           "text4": "Token listing in Major Exchange for trading<br>Priced at USD &amp; 0.13<br>Server and Software Activation<br>",
           "text5": "Software &amp; Hardware<br>Prototype Launching<br>Server Final Activation<br>Global Marketing via Google Play Store &amp; App Store<br>Subscription based<br>Expectation 2 millions subscribers",
@@ -763,16 +775,24 @@
             },
             ".mbr-section-subtitle": {
               "color": "#ffffff",
-              "font-size": "20px"
+              "font-size": "20px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             "P": {
               "color": "#ffffff",
-              "font-size": "20px"
+              "font-size": "20px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             ".mbr-section-title": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "36px"
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "25px"
+            },
+            "H4": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
           }
         },
@@ -835,9 +855,14 @@
           "_anchor": "extProgressBar5-o",
           "_styles": {
             "H2": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "32px"
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "25px"
+            },
+            ".progressbar-title p, .progressbar-number, .progressbar-number + span": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "18px"
             }
           }
         },
@@ -846,8 +871,8 @@
             ".mbr-section-title": {
               "color": "#fff",
               "font-size": "25px",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             ".mbr-section-subtitle": {
               "color": "#ffffff"
@@ -856,7 +881,12 @@
               "color": "#ffffff"
             },
             "DIV": {
-              "color": "#f3c649"
+              "color": "#f3c649",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "P": {
+              "font-size": "18px"
             }
           },
           "_params": {
@@ -951,21 +981,21 @@
               "family": "et-line"
             }
           },
-          "title": "1st Product<br>Trident GPS System<br>Log in Ledger<br>For divers &amp; snorkeler<br>Launching after completion of Pre Early Birds Offering",
+          "title": "<span style=\"font-weight: normal;\">1st Product<br>Trident GPS System<br>Log in Ledger<br>For divers &amp; snorkeler<br>Launching after completion of Pre Early Birds Offering</span>",
           "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
-          "feature_title1": "6 million divers &amp; 20 million snorkelers",
+          "feature_title1": "<span style=\"font-weight: normal;\">6 million divers &amp; 20 million snorkelers</span>",
           "feature_subtitle1": "",
           "feature_text1": "Huge business potential",
-          "feature_title2": "Strategy",
+          "feature_title2": "<span style=\"font-weight: normal;\">Strategy</span>",
           "feature_subtitle2": "",
           "feature_text2": "Free usage for first 6 months. After that USD $10 annual recurrent subscription fee. Pay by TRDNT tokens&nbsp;",
           "feature_title3": "Translation ready",
           "feature_subtitle3": "Find a common language with anyone",
           "feature_text3": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
-          "feature_title4": "User friendly",
+          "feature_title4": "<span style=\"font-weight: normal;\">User friendly</span>",
           "feature_subtitle4": "",
           "feature_text4": "Easy installation and automatic calibration. Excellent user experience. Option of major languages",
-          "feature_title5": "Advanced Technology",
+          "feature_title5": "<span style=\"font-weight: normal;\">Advanced Technology</span>",
           "feature_subtitle5": "",
           "feature_text5": "Automatic connection to major diving &amp; snorkling camps to log in ledger records. Using laser precision GPS technology",
           "feature_title6": "Awesome parallax",
@@ -1020,9 +1050,9 @@
           "_styles": {
             "H1": {
               "color": "#ffffff",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "24px"
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "22px"
             },
             "P": {
               "color": "#ffffff"
@@ -1077,13 +1107,14 @@
           "_anchor": "extFooter1-p",
           "_styles": {
             "UL": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "17px"
             },
             ".mbr-section-title": {
               "font-size": "25px",
               "color": "#ffffff",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
           }
         },
@@ -1162,13 +1193,13 @@
           },
           "title": "OUR TEAM",
           "subtitle": "Comprehensive team profiles will be updated as projects developed",
-          "title1": "William Smith",
+          "title1": "<span style=\"font-weight: normal;\">William Smith</span>",
           "subtitle1": "Programmer",
           "caption1": "New Zealand",
-          "title2": "Emma Jones",
+          "title2": "<span style=\"font-weight: normal;\">Emma </span>Jones",
           "subtitle2": "Founder",
           "caption2": "New Zeland",
-          "title3": "Michael Taylor",
+          "title3": "<span style=\"font-weight: normal;\">Michael Taylor</span>",
           "subtitle3": "Co-Founder",
           "caption3": "UK",
           "title4": "Emily Brown",
@@ -1453,21 +1484,30 @@
           "_styles": {
             "H5": {
               "text-align": "center",
-              "font-size": "20px",
-              "color": "#000000"
+              "font-size": "18px",
+              "color": "#000000",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             "P": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "20px"
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "18px"
             },
             ".mbr-section-subtitle": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "19px"
             },
             ".mbr-section-title": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "36px"
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "30px"
+            },
+            "H4": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
           }
         },
@@ -1634,13 +1674,14 @@
           "_name": "extFooter1",
           "_styles": {
             "UL": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "17px"
             },
             ".mbr-section-title": {
               "font-size": "25px",
               "color": "#ffffff",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
           },
           "_anchor": "extFooter1-t"
@@ -1822,13 +1863,14 @@
           "_name": "extFooter1",
           "_styles": {
             "UL": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "17px"
             },
             ".mbr-section-title": {
               "font-size": "25px",
               "color": "#ffffff",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
           },
           "_anchor": "extFooter1-x"
