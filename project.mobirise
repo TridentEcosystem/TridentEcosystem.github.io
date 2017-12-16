@@ -793,12 +793,12 @@
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "25px",
-              "color": "#ffffff"
+              "color": "#c0a375"
             },
             "H4": {
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "color": "#ffffff"
+              "color": "#c0a375"
             }
           }
         },
