@@ -32,6 +32,8 @@
 
 
 
+
+
 body,
 input,
 textarea,
@@ -436,9 +438,6 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #8b5cd7;
 }
-.scrollToTop_wraper {
-  opacity: 0 !important;
-}
 .extCountdown1 .number,
 .extCountdown2 .number {
   font-family: 'Montserrat', sans-serif;
@@ -719,6 +718,13 @@ h6,
 }
 #extTable1-e TH {
   color: #ffffff;
+}
+#content2-2f BLOCKQUOTE {
+  font-family: 'Raleway', sans-serif;
+}
+#content2-2f P {
+  font-family: 'Raleway', sans-serif;
+  font-size: 24px;
 }
 #content5-19 .mbr-section-title,
 #content5-19 p {
