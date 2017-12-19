@@ -32,6 +32,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -717,8 +718,9 @@ h6,
 #extTable1-e TH {
   color: #ffffff;
 }
-#content1-2g DIV {
-  font-size: 21px;
+#msg-box1-2h H3 {
+  font-size: 22px;
+  font-family: 'Raleway', sans-serif;
 }
 #content5-19 .mbr-section-title,
 #content5-19 p {
