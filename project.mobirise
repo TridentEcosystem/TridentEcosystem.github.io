@@ -324,7 +324,7 @@
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": true,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extMsg-box1_bg.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-extmsg-box1-bg.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#c0a375",
@@ -1082,7 +1082,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-810x1080.jpg",
             "parallax": false,
             "bgColorRadio": false,
-            "bgColor": "#2e2e2e",
+            "bgColor": "#1f658f",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
