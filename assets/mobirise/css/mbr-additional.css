@@ -727,6 +727,13 @@ h6,
   font-family: 'Raleway', sans-serif;
   color: #b8312f;
 }
+#msg-box1-2h DIV {
+  font-size: 19px;
+  color: #f7da64;
+}
+#msg-box1-2h SPAN {
+  color: #ffffff;
+}
 #content5-19 .mbr-section-title,
 #content5-19 p {
   color: #fff;

@@ -197,18 +197,18 @@
             "inverse": false,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1618x1080.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#F2F2F2",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlay": true,
+            "overlayColor": "#41a85f",
+            "overlayOpacity": "0.9"
           },
           "title": "<span style=\"font-weight: normal;\">Ony one contribution adress: \n</span><div>0x7ab177aC91aDF0212Dfc0EEcC4e618E4C02159CE</div><br><div><span style=\"font-weight: normal;\">Set Gas Price at 70 GWEI and Gas Limit at 200,000</span></div><br><div><span style=\"font-weight: normal;\">Minimum contribution 1 ETH = 30,000 TRDNT Token</span></div>",
           "text": "<span style=\"font-style: normal;\"><b>Important</b></span>",
@@ -228,6 +228,13 @@
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "color": "#b8312f"
+            },
+            "DIV": {
+              "font-size": "19px",
+              "color": "#f7da64"
+            },
+            "SPAN": {
+              "color": "#ffffff"
             }
           }
         },
