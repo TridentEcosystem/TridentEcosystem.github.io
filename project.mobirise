@@ -1079,7 +1079,7 @@
             "showArrow": false,
             "imageSize": 60,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-extheader16-bg.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-810x1080.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -1089,7 +1089,7 @@
             },
             "overlay": true,
             "overlayColor": "#2969b0",
-            "overlayOpacity": 0.3
+            "overlayOpacity": "0.8"
           },
           "title": "HEADER WITH IMAGE",
           "text": "6 million divers &amp; 20 million snorkerels will be interested in Trident Ecolink Platform which empower Marine GPS Technology &amp; Economy via blockchain ledger",
