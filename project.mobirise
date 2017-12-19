@@ -210,8 +210,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "0x7ab177aC91aDF0212Dfc0EEcC4e618E4C02159CE",
-          "text": "Only one contrtibution address:\r",
+          "title": "Ony one contribution adress: \n<div>0x7ab177aC91aDF0212Dfc0EEcC4e618E4C02159CE</div><br><div>Set Gas Price at 70 GWEI and Gas Limit at 200,000</div>",
+          "text": "<span style=\"font-style: normal;\"><b>Important</b></span>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
           "_tags": [
             "Theme"
@@ -223,6 +223,11 @@
               "font-size": "22px",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "H2": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#b8312f"
             }
           }
         },
