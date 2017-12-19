@@ -955,18 +955,18 @@
             "showSubtitle": false,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/extFeatures1/images/jumbotron.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/imgtri1-1440x700.jpg",
             "parallax": false,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#2969b0",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.75
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": "0.7"
           },
           "media": {
             "image": {
@@ -1042,7 +1042,7 @@
               "family": "et-line"
             }
           },
-          "title": "<span style=\"font-weight: normal;\">First Product<br>Trident GPS System<br>Log in Ledger<br>For divers &amp; snorkeler<br>(Launching after completion of the Pre Early Birds Offering)</span>",
+          "title": "<span style=\"font-weight: normal;\">First Product<br>Trident GPS Platform<br>Log in Ledger<br>For divers &amp; snorkeler<br>(Launching after completion of the Pre Early Birds Offering)</span>",
           "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
           "feature_title1": "<span style=\"font-weight: normal;\">6 million divers &amp; 20 million snorkelers</span>",
           "feature_subtitle1": "",
