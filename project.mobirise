@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.4.1",
-    "uniqCompNum": 90,
+    "uniqCompNum": 92,
     "versionPublish": "4.4.1",
     "favicon": "",
     "noImageResize": "",
@@ -1069,6 +1069,76 @@
           ],
           "_name": "extFeatures1",
           "_anchor": "extFeatures1-b"
+        },
+        {
+          "_params": {
+            "showImage": true,
+            "showTitle": false,
+            "showText": true,
+            "showForm": false,
+            "showArrow": false,
+            "imageSize": 60,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-extheader16-bg.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.3
+          },
+          "title": "HEADER WITH IMAGE",
+          "text": "6 million divers &amp; 20 million snorkerels will be interested in Trident Ecolink Platform which empower Marine GPS Technology &amp; Economy via blockchain ledger",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>",
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/devices-800x500.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "form": {
+            "action": "firdauslee.rhb@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email"
+              }
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader16",
+          "_anchor": "extHeader16-2j",
+          "_styles": {
+            "P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          }
         },
         {
           "_params": {

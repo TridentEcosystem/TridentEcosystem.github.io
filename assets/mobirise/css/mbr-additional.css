@@ -34,6 +34,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -903,6 +904,9 @@ h6,
 #extFeatures1-b .mbr-section-title SPAN {
   font-family: 'Raleway', sans-serif;
   font-size: 21px;
+}
+#extHeader16-2j P {
+  font-family: 'Raleway', sans-serif;
 }
 #extAccordion1-1j H1 {
   color: #ffffff;
