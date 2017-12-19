@@ -210,7 +210,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Ony one contribution adress: \n<div>0x7ab177aC91aDF0212Dfc0EEcC4e618E4C02159CE</div><br><div>Set Gas Price at 70 GWEI and Gas Limit at 200,000</div>",
+          "title": "<span style=\"font-weight: normal;\">Ony one contribution adress: \n</span><div>0x7ab177aC91aDF0212Dfc0EEcC4e618E4C02159CE</div><br><div><span style=\"font-weight: normal;\">Set Gas Price at 70 GWEI and Gas Limit at 200,000</span></div><br><div><span style=\"font-weight: normal;\">Minimum contribution 1 ETH = 30,000 TRDNT Token</span></div>",
           "text": "<span style=\"font-style: normal;\"><b>Important</b></span>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
           "_tags": [
@@ -220,7 +220,7 @@
           "_anchor": "msg-box1-2h",
           "_styles": {
             "H3": {
-              "font-size": "22px",
+              "font-size": "20px",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
@@ -267,7 +267,7 @@
             "overlayOpacity": "0.6"
           },
           "title": "<span style=\"font-weight: normal;\">Trident Pre Early Birds Offering<br></span><br><span style=\"font-weight: normal;\">Ony one contribution adress: </span><br>0x7ab177aC91aDF0212Dfc0EEcC4e618E4C02159CE",
-          "caption": "<p>Closed door tokens offering. 1 ETH = 30,000 CRDNT tokens. Amount capped at 24 millions tokens. This is the earliest phase of crowdfunding offering. Funds collected will be used to developed completion of server nodes. Minimum investment is 1 ETH.&nbsp;</p><p>To contribute: Please send the desired amount of ETHER to contribution address:</p><p><b>0x7ab177aC91aDF0212Dfc0EEcC4e618E4C02159CE</b></p><p>Set Gas Price at 70 GWEI and Gas Limit at 200,000</p><p>Contributor shall receive tokens within 24 working hours. Tokens will be sent directly to the contributor's wallet address.&nbsp;</p><p>Please use myetherwallet or IMToken wallet to send your ETHER</p><p>Join the Pre Ear;y Birds investment opportunity and enjoy massive gain in the future token pice.\n</p><p>1 ETH = 30,000  TRDNT\n</p><p>Expected exchange listing price at USD $0.13\n</p><p>We are aiming for long term baseline price at USD $180 - $300 pertoken in 84-96 months</p>",
+          "caption": "<p>Closed door tokens offering. 1 ETH = 30,000 CRDNT tokens. Amount capped at 24 millions tokens. This is the earliest phase of crowdfunding offering. Funds collected will be used to developed completion of server nodes. Minimum investment is 1 ETH.&nbsp;</p><p>Contributor shall receive tokens within 24 working hours. Tokens will be sent directly to the contributor's wallet address.&nbsp;<br></p><p>Please use myetherwallet or IMToken wallet to send your ETHER</p><p>Join the Pre Ear;y Birds investment opportunity and enjoy massive gain in the future token pice.\n</p><p>1 ETH = 30,000  TRDNT\n</p><p>Expected exchange listing price at USD $0.13\n</p><p>We are aiming for long term baseline price at USD $180 - $300 pertoken in 84-96 months</p>",
           "_tags": [
             "Theme"
           ],
