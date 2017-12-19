@@ -32,8 +32,6 @@
 
 
 
-
-
 body,
 input,
 textarea,
@@ -719,12 +717,8 @@ h6,
 #extTable1-e TH {
   color: #ffffff;
 }
-#content2-2f BLOCKQUOTE {
-  font-family: 'Raleway', sans-serif;
-}
-#content2-2f P {
-  font-family: 'Raleway', sans-serif;
-  font-size: 24px;
+#content1-2g DIV {
+  font-size: 21px;
 }
 #content5-19 .mbr-section-title,
 #content5-19 p {
