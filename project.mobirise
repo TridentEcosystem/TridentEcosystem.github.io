@@ -971,7 +971,7 @@
           "media": {
             "image": {
               "class": "central-image",
-              "src": "@PROJECT_PATH@/assets/images/fenix-5-x-black-441x509.png",
+              "src": "@PROJECT_PATH@/assets/images/triwatch2-550x550.png",
               "active": true,
               "link": "",
               "alt": "",
