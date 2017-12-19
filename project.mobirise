@@ -324,7 +324,7 @@
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-extmsg-box1-bg.jpg",
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extMsg-box1_bg.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#c0a375",
