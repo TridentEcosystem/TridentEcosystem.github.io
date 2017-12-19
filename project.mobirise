@@ -222,7 +222,8 @@
             "H3": {
               "font-size": "20px",
               "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "text-align": "left"
             },
             "H2": {
               "font-family": "'Raleway', sans-serif",
