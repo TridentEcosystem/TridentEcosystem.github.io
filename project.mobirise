@@ -178,8 +178,8 @@
               "color": "#ffffff"
             },
             "B": {
-              "color": "#ffffff",
-              "font-size": "18px"
+              "color": "#f7da64",
+              "font-size": "20px"
             },
             "TD": {
               "color": "#ffffff"
