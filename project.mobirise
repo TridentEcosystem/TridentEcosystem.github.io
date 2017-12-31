@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.4.1",
-    "uniqCompNum": 92,
+    "uniqCompNum": 95,
     "versionPublish": "4.4.1",
     "favicon": "",
     "noImageResize": "",
@@ -186,6 +186,25 @@
             },
             "TH": {
               "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<blockquote><p><span style=\"font-style: normal;\">01 Jan 2018</span></p><p><span style=\"font-style: normal;\">Wish you all a very happy and prosperous 2018.&nbsp;</span></p><p><span style=\"font-style: normal;\">The Trident Pre Early Bird Event had started for open registration.</span></p><p><span style=\"font-style: normal;\">1 ETH = 30,000 TRDNT Token</span></p></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-2m",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
           }
         },
