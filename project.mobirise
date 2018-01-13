@@ -61,7 +61,7 @@
             "showForm": true,
             "showArrow": true,
             "imageSize": "15",
-            "countdown": "2018/01/15",
+            "countdown": "2018/01/25",
             "animText1": "ICO",
             "animText2": "Launching",
             "animText3": "",
@@ -294,7 +294,7 @@
             "overlayOpacity": "0.6"
           },
           "title": "<span style=\"font-weight: normal;\">Trident Pre Early Birds Offering<br></span><br><span style=\"font-weight: normal;\">Ony one contribution adress: </span><br>0x7ab177aC91aDF0212Dfc0EEcC4e618E4C02159CE",
-          "caption": "<p>Closed door tokens offering. 1 ETH = 30,000 CRDNT tokens. Amount capped at 24 millions tokens. This is the earliest phase of crowdfunding offering. Funds collected will be used to developed completion of server nodes. Minimum investment is 1 ETH.&nbsp;</p><p>Contributor shall receive tokens within 24 working hours. Tokens will be sent directly to the contributor's wallet address.&nbsp;<br></p><p>Please use myetherwallet or IMToken wallet to send your ETHER</p><p>Join the Pre Ear;y Birds investment opportunity and enjoy massive gain in the future token pice.\n</p><p>1 ETH = 30,000  TRDNT\n</p><p>Expected exchange listing price at USD $0.13\n</p><p>We are aiming for long term baseline price at USD $180 - $300 pertoken in 84-96 months</p>",
+          "caption": "<p>Closed door tokens offering. 1 ETH = 30,000 CRDNT tokens. Amount capped at 24 millions tokens. This is the earliest phase of crowdfunding offering. Funds collected will be used to develop and completion of server nodes. Minimum investment is 1 ETH.&nbsp;</p><p>Contributor shall receive tokens within 24 working hours. Tokens will be sent directly to the contributor's wallet address.&nbsp;<br></p><p>Please use myetherwallet or IMToken wallet to send your ETHER</p><p>Join the Pre Ear;y Birds investment opportunity and enjoy massive gain in the future token pice.\n</p><p>1 ETH = 30,000  TRDNT\n</p><p>Expected exchange listing price at USD $0.13\n</p><p>We are aiming for long term baseline price at USD $180 - $300 pertoken in 84-96 months</p>",
           "_tags": [
             "Theme"
           ],
@@ -384,7 +384,7 @@
             }
           },
           "title": "What is Trident Token?",
-          "text": "<span style=\"font-style: normal;\">Trident token (TRDNT) serves as the only denominating cryptocurrency commonly used in the Trident Ecolink Platform. The supply is permanently fixed at 131 millions tokens only. It is an ETHEREUM ERC20 compatible utulity token. <br><br>1) As medium of currency for payment &amp; subscription purposes. Users will need to use Trident tokens to pay for servie subscription, hardware purchase, software purchase and other related services. </span><br><span style=\"font-style: normal;\">2) Early investors will have an opportunity to earn a high ROI while holding the tokens as we develop our projects according to our roadmap which increase the global demand of the TRDNT as both utility tokens and also as storage of value.&nbsp;</span>",
+          "text": "<span style=\"font-style: normal;\">Trident token (TRDNT) serves as the only denominating cryptocurrency commonly used in the Trident Ecolink Platform. The supply is permanently fixed at 131 millions tokens only. It is an ETHEREUM ERC20 compatible utulity token. <br><br>1) As medium of currency for payment &amp; subscription purposes. Users will need to use Trident tokens to pay for servcie subscription, hardware purchase, software purchase and other related services. </span><br><span style=\"font-style: normal;\">2) Early investors will have an opportunity to earn a high ROI while holding the tokens as we develop our projects according to our roadmap which increase the global demand of the TRDNT as both utility tokens and also as storage of value.&nbsp;</span>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SUBSCRIBE</a>",
           "bgTextP": "ANIMATED TEXT BACKGROUND",
           "alias": "mobirise3-blocks/components",
@@ -560,7 +560,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p><b style=\"font-style: normal;\">VISION &amp; Mission</b></p><p><span style=\"font-style: normal;\">A sustainable and propagable marine industry which hundreds of million of users will be dependent on.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">With the help of blockchain technology and smart contracts, the whole process becomes as transparent and automated as possible, which makes the platform a strong extension of the existing sustainable industry and enables the use of crypto currency in real business.</span></p><p><br></p><p><b>Trident Ecolink is the first platform of its kind, and its economy assumes absolute transparency and absence of boundaries which provides new possibilities to monetize Marine Ecosystem thanks to the unique Trident (TRDNT) token. Trident (TRDNT) will be the main mean of payment within the ecosystem\n and also may act as storage of value with massive forthcoming ROI gain as the global demand of TRDNT tokens increaases.&nbsp;</b></p><p><br></p><p>\n</p><p><span style=\"font-style: normal;\">Our first milestone is to release a fully functional Server and Mobile App by the end of Q2 2018.&nbsp;</span></p><p><span style=\"font-style: normal;\">First immediate project will be the development and release of GPS Tracking App &amp; Server after the completion of Pre Early Birds Offering.</span></p><p><span style=\"font-style: normal;\">This is a multip-purpose GPS Laser Precision Tracking system with added visual and audio capabilities.&nbsp;</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">Immediate targeted users will be 6 millions professional and amateur drivers who are eager to subscribe to our services and also as TRDNT tokens holder.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p>(This project is started and running because of the vision of one man)&nbsp;</p><p>\n</p><p><br></p></blockquote>",
+          "text": "<blockquote><p><b style=\"font-style: normal;\">VISION &amp; Mission</b></p><p><span style=\"font-style: normal;\">A sustainable and propagable marine industry which hundreds of million of users will be dependent on.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">With the help of blockchain technology and smart contracts, the whole process becomes as transparent and automated as possible, which makes the platform a strong extension of the existing sustainable industry and enables the use of crypto currency in real business.</span></p><p><br></p><p><b>Trident Ecolink is the first platform of its kind, and its economy assumes absolute transparency and absence of boundaries which provides new possibilities to monetize Marine Ecosystem thanks to the unique Trident (TRDNT) token. Trident (TRDNT) will be the main mean of payment within the ecosystem\n and also may act as storage of value with massive forthcoming ROI gain as the global demand of TRDNT tokens increases.&nbsp;</b></p><p><br></p><p>\n</p><p><span style=\"font-style: normal;\">Our first milestone is to release a fully functional Server and Mobile App by the end of Q2 2018.&nbsp;</span></p><p><span style=\"font-style: normal;\">First immediate project will be the development and release of GPS Tracking App &amp; Server after the completion of Pre Early Birds Offering.</span></p><p><span style=\"font-style: normal;\">This is a multip-purpose GPS Laser Precision Tracking system with added visual and audio capabilities.&nbsp;</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">Immediate targeted users will be the 6 million professional and amateur drivers who are eager to subscribe to our services and also as TRDNT tokens holder.</span></p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -1350,7 +1350,7 @@
           "caption1": "New Zealand",
           "title2": "<span style=\"font-weight: normal;\">Emma </span>Jones",
           "subtitle2": "Founder",
-          "caption2": "New Zeland",
+          "caption2": "New Zealand",
           "title3": "<span style=\"font-weight: normal;\">Michael Taylor</span>",
           "subtitle3": "Co-Founder",
           "caption3": "UK",
