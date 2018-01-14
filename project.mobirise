@@ -81,7 +81,7 @@
           },
           "title": "",
           "title2": "TRIDENT Tokens",
-          "text": "Global demands of GPS tidal tracking sites and improvement in estimating the vertical component of a site's position from GPS measurements, present a unique opportunity to proliferate smart investment returns through blockchain technology",
+          "text": "Increasing global demands for GPS tidal tracking sites and improvement of vertical component estimation a site's position from GPS measurements, present a unique opportunity to proliferate smart investment returns through blockchain technology",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>",
           "media": {
             "image": {
@@ -178,7 +178,7 @@
               "color": "#ffffff"
             },
             "B": {
-              "color": "#ffffff",
+              "color": "#f7da64",
               "font-size": "18px"
             },
             "TD": {
@@ -229,7 +229,7 @@
             "overlayColor": "#41a85f",
             "overlayOpacity": "0.9"
           },
-          "title": "<span style=\"font-weight: normal;\">Ony one contribution adress: \n</span><div>0x7ab177aC91aDF0212Dfc0EEcC4e618E4C02159CE</div><br><div><span style=\"font-weight: normal;\">Set Gas Price at 70 GWEI and Gas Limit at 200,000</span></div><br><div><span style=\"font-weight: normal;\">Minimum contribution 1 ETH = 30,000 TRDNT Token</span></div>",
+          "title": "<span style=\"font-weight: normal;\">Ony one contribution adress: \n</span><div><span style=\"font-weight: normal;\">0x7ab177aC91aDF0212Dfc0EEcC4e618E4C02159CE</span></div><br><div><span style=\"font-weight: normal;\">Set Gas Price at 70 GWEI and Gas Limit at 200,000</span></div><br><div><span style=\"font-weight: normal;\">Minimum contribution 1 ETH = 30,000 TRDNT Token</span></div>",
           "text": "<span style=\"font-style: normal;\"><b>Important</b></span>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
           "_tags": [
@@ -251,10 +251,13 @@
             },
             "DIV": {
               "font-size": "19px",
-              "color": "#f7da64"
+              "color": "#f7da64",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             "SPAN": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "18px"
             }
           }
         },
@@ -294,7 +297,7 @@
             "overlayOpacity": "0.6"
           },
           "title": "<span style=\"font-weight: normal;\">Trident Pre Early Birds Offering<br></span><br><span style=\"font-weight: normal;\">Ony one contribution adress: </span><br>0x7ab177aC91aDF0212Dfc0EEcC4e618E4C02159CE",
-          "caption": "<p>Closed door tokens offering. 1 ETH = 30,000 CRDNT tokens. Amount capped at 24 millions tokens. This is the earliest phase of crowdfunding offering. Funds collected will be used to develop and completion of server nodes. Minimum investment is 1 ETH.&nbsp;</p><p>Contributor shall receive tokens within 24 working hours. Tokens will be sent directly to the contributor's wallet address.&nbsp;<br></p><p>Please use myetherwallet or IMToken wallet to send your ETHER</p><p>Join the Pre Ear;y Birds investment opportunity and enjoy massive gain in the future token pice.\n</p><p>1 ETH = 30,000  TRDNT\n</p><p>Expected exchange listing price at USD $0.13\n</p><p>We are aiming for long term baseline price at USD $180 - $300 pertoken in 84-96 months</p>",
+          "caption": "<p>Closed door tokens offering. 1 ETH = 30,000 CRDNT tokens. Amount capped at 24 millions tokens. This is the earliest phase of the crowdfunding offering. Funds collected will be used to develop and completion of server nodes. Minimum investment is 1 ETH.&nbsp;</p><p>Contributor shall receive tokens within 24 working hours. Tokens will be sent directly to the contributor's wallet address.&nbsp;<br></p><p>Please use myetherwallet or IMToken wallet to send your ETHER</p><p>Join the Pre Early Birds investment opportunity and enjoy massive gain in the future token pice.\n</p><p>1 ETH = 30,000  TRDNT\n</p><p>Expected exchange listing price at USD $0.13</p>",
           "_tags": [
             "Theme"
           ],
@@ -384,7 +387,7 @@
             }
           },
           "title": "What is Trident Token?",
-          "text": "<span style=\"font-style: normal;\">Trident token (TRDNT) serves as the only denominating cryptocurrency commonly used in the Trident Ecolink Platform. The supply is permanently fixed at 131 millions tokens only. It is an ETHEREUM ERC20 compatible utulity token. <br><br>1) As medium of currency for payment &amp; subscription purposes. Users will need to use Trident tokens to pay for servcie subscription, hardware purchase, software purchase and other related services. </span><br><span style=\"font-style: normal;\">2) Early investors will have an opportunity to earn a high ROI while holding the tokens as we develop our projects according to our roadmap which increase the global demand of the TRDNT as both utility tokens and also as storage of value.&nbsp;</span>",
+          "text": "<span style=\"font-style: normal;\">Trident token (TRDNT) serves as the only denominating cryptocurrency commonly used in the Trident Ecolink Platform. The supply is permanently fixed at 131 millions tokens only. It is an ETHEREUM ERC20 compatible utility token. <br><br>1) As medium of currency for payment &amp; subscription purposes. Users will need to use Trident tokens to pay for servcie subscription, hardware purchase, software purchase and other related services. </span><br><span style=\"font-style: normal;\">2) Early investors will have an opportunity to earn a high ROI while holding the tokens as we develop our projects according to our roadmap which increase the global demand of the TRDNT as both utility tokens and also as storage of value.&nbsp;</span>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SUBSCRIBE</a>",
           "bgTextP": "ANIMATED TEXT BACKGROUND",
           "alias": "mobirise3-blocks/components",
@@ -708,7 +711,7 @@
           "text1": "Launching Pre Early Birds event<br>Priced at 1 ETH = 30,000 Tokens<br>Cloded Door Event<br><br>",
           "text2": "Launching Early Birds Event<br>Priced at 1 ETH = 10,000 Tokens<br>Closed Door Event<br>Server and Software Development<br><b>Release GPS Apps for divers &amp; snorkelers with laser precision and log in ledger</b>",
           "text3": "01 July 2018. Pre-ICO<br>15 July 2018. ICO<br>Server and Software Testing<br>",
-          "text4": "Token listing in Major Exchange for trading<br>Priced at USD &amp; 0.13<br>Server and Software Activation<br>",
+          "text4": "Token listing in Major Exchange for trading<br>Priced at USD $ 0.13<br>Server and Software Activation<br>",
           "text5": "Software &amp; Hardware<br>Prototype Launching<br>Server Final Activation<br>Global Marketing via Google Play Store &amp; App Store<br>Subscription based<br>Expectation 2 millions subscribers",
           "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
           "text7": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
@@ -1182,7 +1185,7 @@
           },
           "title": "Accordion FAQ",
           "title1": "<a role=\"button\" class=\"text-white\" data-toggle=\"collapse\" data-parent=\"#accordion_14\" data-core=\"\" href=\"#collapseOne_14\" aria-expanded=\"true\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>What is Trident tokens?</a>",
-          "title2": "<a role=\"button\" class=\"text-white\" data-toggle=\"collapse\" data-parent=\"#accordion_12\" data-core=\"\" href=\"#collapseTwo_12\" aria-expanded=\"true\" aria-controls=\"collapseTwo\">Products?</a>",
+          "title2": "<a role=\"button\" class=\"text-white\" data-toggle=\"collapse\" data-parent=\"#accordion_11\" data-core=\"\" href=\"#collapseTwo_11\" aria-expanded=\"true\" aria-controls=\"collapseTwo\">Products?</a>",
           "title3": "<a role=\"button\" class=\"text-white\" data-toggle=\"collapse\" data-parent=\"#accordion_12\" data-core=\"\" href=\"#collapseThree_12\" aria-expanded=\"true\" aria-controls=\"collapseThree\">Good Investment?</a>",
           "title4": "",
           "title5": "",
