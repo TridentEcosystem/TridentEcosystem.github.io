@@ -685,7 +685,7 @@
             "bgColorRadio": false,
             "bgColor": "#90a878",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1622x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/stock-photo-43550884-1600x1065.jpg",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -866,12 +866,12 @@
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "25px",
-              "color": "#c0a375"
+              "color": "#52a4d6"
             },
             "H4": {
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "color": "#c0a375"
+              "color": "#52a4d6"
             }
           }
         },
