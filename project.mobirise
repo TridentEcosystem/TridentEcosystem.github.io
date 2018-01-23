@@ -54,20 +54,20 @@
       "components": [
         {
           "_params": {
-            "showLogo": true,
-            "showTitle": true,
+            "showLogo": false,
+            "showTitle": false,
             "showText": true,
             "showCountdown": true,
             "showForm": true,
             "showArrow": true,
             "imageSize": "15",
-            "countdown": "2018/01/25",
-            "animText1": "ICO",
-            "animText2": "Launching",
+            "countdown": "2018/02/16",
+            "animText1": "",
+            "animText2": "",
             "animText3": "",
             "typeSpeed": "20",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-extheader15-bg.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/164224770-diving-wallpapers-1600x1056.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -75,13 +75,13 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.5"
+            "overlayOpacity": "0.3"
           },
           "title": "",
           "title2": "TRIDENT Tokens",
-          "text": "Increasing global demands for GPS tidal tracking sites and improvement of vertical component estimation a site's position from GPS measurements, present a unique opportunity to proliferate smart investment returns through blockchain technology",
+          "text": "Join the World’s First Global Vision: Decentralized marine environmental conservation body, Built on blockchain technology",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>",
           "media": {
             "image": {
@@ -134,7 +134,7 @@
             "P": {
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "18px"
+              "font-size": "20px"
             }
           }
         },
