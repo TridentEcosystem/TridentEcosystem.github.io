@@ -718,9 +718,6 @@ h6,
 #extTable1-e TH {
   color: #ffffff;
 }
-#content1-2n DIV {
-  color: #ffffff;
-}
 #content5-19 .mbr-section-title,
 #content5-19 p {
   color: #fff;
@@ -733,6 +730,9 @@ h6,
 #content5-19 .mbr-section-title {
   font-size: 20px;
   font-family: 'Raleway', sans-serif;
+}
+#content5-19 .mbr-section-title SPAN {
+  font-size: 18px;
 }
 #image1-k DIV {
   color: #ffffff;
