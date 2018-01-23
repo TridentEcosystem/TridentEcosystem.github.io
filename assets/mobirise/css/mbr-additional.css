@@ -725,6 +725,9 @@ h6,
 #content2-2m BLOCKQUOTE {
   font-family: 'Raleway', sans-serif;
 }
+#content2-2m P {
+  color: #1f658f;
+}
 #msg-box1-2h H3 {
   font-size: 20px;
   font-family: 'Raleway', sans-serif;
