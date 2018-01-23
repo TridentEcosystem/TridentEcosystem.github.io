@@ -21,17 +21,17 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#2e964c",
         "#8b5cd7",
         "#bf98fd",
         "#e3eff4",
         "#f4f4f4",
         "#52a4d6",
-        "#1f658f",
-        "#333333"
+        "#1f658f"
       ]
     },
     "versionFirst": "4.4.1",
-    "uniqCompNum": 95,
+    "uniqCompNum": 96,
     "versionPublish": "4.4.1",
     "favicon": "",
     "noImageResize": "",
@@ -193,74 +193,17 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#2e964c"
           },
-          "text": "<blockquote><p><span style=\"font-style: normal;\">23 Jan 2018</span></p><p><span style=\"font-style: normal;\">The Early Birds Crowdsales Contribution will begin on January 22, 2018, and will run until April 22, 2018, or until the tokens sell out. In total, The base price is 1 ETH for 30,000 TRDNT Token</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">There is only one contribution adress:\n</span></p><p><span style=\"font-style: normal;\">0x7ab177aC91aDF0212Dfc0EEcC4e618E4C02159CE</span></p></blockquote>",
+          "text": "<b>23 Jan 2018\n</b><div>The Early Birds Crowdsales Contribution will begin on January 22, 2018, and will run until April 22, 2018, or until the tokens sell out. In total. The base price is 1 ETH for 30,000 TRDNT Token</div><div><br></div><div>\n</div><div>\n</div><div>There is only one contribution address:\n</div><div>0x7ab177aC91aDF0212Dfc0EEcC4e618E4C02159CE</div><div><br></div><div>Set Gas Price at 70 GWEI and Gas Limit at 200,000\n</div><div>Minimum contribution 1 ETH = 30,000 TRDNT Token</div>",
           "_tags": [
             "Theme"
           ],
-          "_name": "content2",
-          "_anchor": "content2-2m",
+          "_name": "content1",
+          "_anchor": "content1-2n",
           "_styles": {
-            "BLOCKQUOTE": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            },
-            "P": {
-              "color": "#1f658f"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1618x1080.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#41a85f",
-            "overlayOpacity": "0.9"
-          },
-          "title": "<span style=\"font-weight: normal;\">Only one contribution adress: \n</span><div><span style=\"font-weight: normal;\">0x7ab177aC91aDF0212Dfc0EEcC4e618E4C02159CE</span></div><br><div><span style=\"font-weight: normal;\">Set Gas Price at 70 GWEI and Gas Limit at 200,000</span></div><br><div><span style=\"font-weight: normal;\">Minimum contribution 1 ETH = 30,000 TRDNT Token</span></div>",
-          "text": "<span style=\"font-style: normal;\"><b>Important</b></span>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box1",
-          "_anchor": "msg-box1-2h",
-          "_styles": {
-            "H3": {
-              "font-size": "20px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "text-align": "left"
-            },
-            "H2": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "color": "#b8312f"
-            },
             "DIV": {
-              "font-size": "19px",
-              "color": "#f7da64",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            },
-            "SPAN": {
-              "color": "#ffffff",
-              "font-size": "18px"
+              "color": "#ffffff"
             }
           }
         },
