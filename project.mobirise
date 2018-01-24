@@ -1285,7 +1285,7 @@
           "title1": "<span style=\"font-weight: normal;\">William Smith</span>",
           "subtitle1": "Programmer",
           "caption1": "New Zealand",
-          "title2": "<span style=\"font-weight: normal;\">Emma </span>Jones",
+          "title2": "<span style=\"font-weight: normal;\">Emma Jones</span>",
           "subtitle2": "Founder",
           "caption2": "New Zealand",
           "title3": "<span style=\"font-weight: normal;\">Michael Taylor</span>",
@@ -2152,7 +2152,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-66038-20160620-1999x10317.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-66038-20160620-1999x10311.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -3656,7 +3656,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/sea-level-rise-and-global-warming-infographic-all-facts-full-size-1140x42166.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sea-level-rise-and-global-warming-infographic-all-facts-full-size-1140x42160.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
