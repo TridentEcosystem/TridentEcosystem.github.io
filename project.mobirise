@@ -21,13 +21,13 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#073d5e",
         "#2e964c",
         "#8b5cd7",
         "#bf98fd",
         "#e3eff4",
         "#f4f4f4",
-        "#52a4d6",
-        "#1f658f"
+        "#52a4d6"
       ]
     },
     "versionFirst": "4.4.1",
@@ -212,7 +212,7 @@
           "_params": {
             "showTitle": true,
             "showCaption": true,
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/photo-66038-20160620-1999x1031.jpg",
@@ -242,7 +242,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "showBullets": true,
-            "bgColor": "#000000",
+            "bgColor": "#073d5e",
             "timeout": 5,
             "slides": [
               {
