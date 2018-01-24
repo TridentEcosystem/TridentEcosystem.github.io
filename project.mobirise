@@ -475,7 +475,7 @@
           "media": {
             "image": {
               "class": "central-image",
-              "src": "@PROJECT_PATH@/assets/images/photo_66038-20160620-1999x1031.jpg",
+              "src": "@PROJECT_PATH@/assets/images/photo-66038-20160620-1999x1031.jpg",
               "active": true,
               "link": "",
               "alt": "",
@@ -1115,7 +1115,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sea-level-rise-and-global-warming-infographic-all-facts_full-size-1140x4216.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sea-level-rise-and-global-warming-infographic-all-facts-full-size-1140x4216.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -2152,7 +2152,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-66038-20160620-1999x1031.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-66038-20160620-1999x103113.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -3656,7 +3656,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/sea-level-rise-and-global-warming-infographic-all-facts-full-size-1140x4216.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sea-level-rise-and-global-warming-infographic-all-facts-full-size-1140x421612.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
