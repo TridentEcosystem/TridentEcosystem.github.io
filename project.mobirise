@@ -621,7 +621,8 @@
           "_styles": {
             "H3": {
               "font-size": "32px",
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#f3c649"
             },
             "P": {
               "color": "#ffffff",
@@ -2151,7 +2152,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-66038-20160620-1999x10313.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-66038-20160620-1999x10315.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -3655,7 +3656,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/sea-level-rise-and-global-warming-infographic-all-facts-full-size-1140x42162.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sea-level-rise-and-global-warming-infographic-all-facts-full-size-1140x42164.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
