@@ -475,7 +475,7 @@
           "media": {
             "image": {
               "class": "central-image",
-              "src": "@PROJECT_PATH@/assets/images/photo-66038-20160620-1999x1031.jpg",
+              "src": "@PROJECT_PATH@/assets/images/photo_66038-20160620-1999x1031.jpg",
               "active": true,
               "link": "",
               "alt": "",
@@ -593,7 +593,7 @@
             "overlayOpacity": "0.9"
           },
           "title": "Investment Opportunity",
-          "text": "<b>We will be launching our closed door private events for our would-be investor who are interested in joining us as the pioneer investors and contributors to this spectacular blockchain project. For more informations regarding our private event, please contact us via the online form below.<br></b><br><b>Why blockchain?<br></b><br>1. Classic database\n<br>Client-server network architecture. To make any changes, the user must have permissions that are stored in a centralized server. Control remains with administrators, who have central authority over information and data.<br><br>2. Decentralized control and transparency\n<br>Every member of the network's community uses the same “consensus mechanism” to verify every transaction made through the network.\nThis creates a unique, permanent audit trail. There is no single week point and no way to make modifications to transaction records.<br><br>3. Blockchain database\n<br>Each participant maintains, calculates and updates new entries to the database. All nodes work together as one, providing build-in security network.<br><br>",
+          "text": "<b>We will be launching our closed door private events for our would-be investors who are interested in joining us as pioneer investors and contributors to this spectacular blockchain project. For more informations regarding our private event, please contact us via the online form below.<br></b><br><b>Why blockchain?<br></b><br>1. Classic database\n<br>Client-server network architecture. To make any changes, the user must have permissions that are stored in a centralized server. Control remains with administrators, who have central authority over information and data.<br><br>2. Decentralized control and transparency\n<br>Every member of the network's community uses the same “consensus mechanism” to verify every transaction made through the network.\nThis creates a unique, permanent audit trail. There is no single week point and no way to make modifications to transaction records.<br><br>3. Blockchain database\n<br>Each participant maintains, calculates and updates new entries to the database. All nodes work together as one, providing build-in security network.<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "button": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Us</a>",
           "form": {
@@ -1115,7 +1115,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sea-level-rise-and-global-warming-infographic-all-facts-full-size-1140x4216.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sea-level-rise-and-global-warming-infographic-all-facts_full-size-1140x4216.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -2152,7 +2152,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-66038-20160620-1999x10319.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-66038-20160620-1999x1031.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -3656,7 +3656,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/sea-level-rise-and-global-warming-infographic-all-facts-full-size-1140x42168.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sea-level-rise-and-global-warming-infographic-all-facts-full-size-1140x4216.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
