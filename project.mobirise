@@ -431,7 +431,7 @@
             }
           },
           "title": "What is Trident Token?",
-          "text": "<span style=\"font-style: normal;\">Trident token (TRDNT) serves as the only denominating cryptocurrency commonly used in the Trident Ecolink Platform. The supply is permanently fixed at 131 millions tokens only. It is an ETHEREUM ERC20 compatible utility token. <br><br>1) As medium of currency for payment &amp; subscription purposes. Users will need to use Trident tokens to pay for servcie subscription, hardware purchase, software purchase and other related services. </span><br><span style=\"font-style: normal;\">2) Early investors will have an opportunity to earn a high ROI while holding the tokens as we develop our projects according to our roadmap which increase the global demand of the TRDNT as both utility tokens and also as storage of value.&nbsp;</span>",
+          "text": "<span style=\"font-style: normal;\">Trident token (TRDNT) serves as the only denominating cryptocurrency commonly used in the Trident Ecolink Platform. The supply is permanently fixed at 131 millions tokens only. It is an ETHEREUM ERC20 compatible utility token. <br><br>1) As medium of currency for payment &amp; subscription purposes. Users will need to use Trident tokens to pay for servcie subscription, hardware purchase, software purchase and other related services. </span><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\">2) Early investors will have an opportunity to earn a high ROI while holding the tokens as we develop our projects according to our roadmap which increase the global demand of the TRDNT as both utility tokens and also as storage of value.&nbsp;</span>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SUBSCRIBE</a>",
           "bgTextP": "ANIMATED TEXT BACKGROUND",
           "alias": "mobirise3-blocks/components",
@@ -444,12 +444,14 @@
             "H3": {
               "font-size": "21px",
               "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "text-align": "left"
             },
             "P": {
               "font-size": "18px",
               "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "text-align": "left"
             }
           }
         },

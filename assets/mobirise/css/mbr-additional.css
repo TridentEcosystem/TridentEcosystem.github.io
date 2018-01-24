@@ -736,10 +736,12 @@ h6,
 #extMsg-box1-1a H3 {
   font-size: 21px;
   font-family: 'Raleway', sans-serif;
+  text-align: left;
 }
 #extMsg-box1-1a P {
   font-size: 18px;
   font-family: 'Raleway', sans-serif;
+  text-align: left;
 }
 #ext_menu-i .hide-buttons .nav-btn {
   display: none !important;
