@@ -83,7 +83,7 @@
           },
           "title": "",
           "title2": "TRIDENT Tokens",
-          "text": "<b>TRIDENT ECOSYSTEM</b>, the World’s First Global Vision: Decentralized marine environmental conservation body. Built on blockchain technology.<br><br><b>The Trident Mobile App (T-E-S) will be launching globally in</b><br>",
+          "text": "<b>TRIDENT ECOSYSTEM.</b>&nbsp;The World’s First Global Vision: Decentralized marine environmental conservation body. Built on blockchain technology.<br><br><b>The Trident Mobile App (T-E-S) will be launching globally in</b><br>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>",
           "media": {
             "image": {
@@ -2152,7 +2152,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-66038-20160620-1999x10313.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-66038-20160620-1999x10319.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -3656,7 +3656,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/sea-level-rise-and-global-warming-infographic-all-facts-full-size-1140x42162.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sea-level-rise-and-global-warming-infographic-all-facts-full-size-1140x42168.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
