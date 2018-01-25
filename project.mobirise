@@ -475,7 +475,7 @@
           "media": {
             "image": {
               "class": "central-image",
-              "src": "@PROJECT_PATH@/assets/images/photo-66038-20160620-1999x1031.jpg",
+              "src": "@PROJECT_PATH@/assets/images/photo_66038-20160620-1999x1031.jpg",
               "active": true,
               "link": "",
               "alt": "",
@@ -546,7 +546,7 @@
               "family": "et-line"
             }
           },
-          "title": "<span style=\"font-weight: normal;\">T-E-S (Trident Eco System) App<br>Digital Dive Logbook<br>Diver’s and Ocean Lover’s Social Community</span><br><br>Strategy:<span style=\"font-weight: normal;\"> &nbsp;\nGrowth in value, as a marine conservation-base ecosystem model. Highly demanded in long term environmental friendly platform.</span><br><br>Advanced Technology: \r<span style=\"font-weight: normal;\">Utilizing Blockchain technology to achieve optimum accuracy.&nbsp;</span>",
+          "title": "<span style=\"font-weight: normal;\">T-E-S (Trident Eco System) App<br>Digital Dive Logbook<br>Diver’s and Ocean Lover’s Social Community</span><br>",
           "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
           "feature_title1": "<span style=\"font-weight: normal;\">6 million divers &amp; 20 million snorkelers</span>",
           "feature_subtitle1": "",
@@ -1116,7 +1116,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sea-level-rise-and-global-warming-infographic-all-facts-full-size-1140x4216.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sea-level-rise-and-global-warming-infographic-all-facts_full-size-1140x4216.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -2153,7 +2153,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-66038-20160620-1999x10311.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-66038-20160620-1999x1031.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -3657,7 +3657,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/sea-level-rise-and-global-warming-infographic-all-facts-full-size-1140x42160.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sea-level-rise-and-global-warming-infographic-all-facts-full-size-1140x4216.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
