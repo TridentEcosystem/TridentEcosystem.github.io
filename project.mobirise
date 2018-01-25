@@ -1038,7 +1038,7 @@
             "overlayOpacity": "0.8"
           },
           "title": "HEADER WITH IMAGE",
-          "text": "6 million divers &amp; 20 million snorkerels will be interested in Trident Ecosystem Platform which empower Marine GPS Technology &amp; Economy via blockchain ledger",
+          "text": "6 million divers &amp; 20 million snorkerels will be interested in Trident Ecosystem Platform which empower Marine GPS Technology &amp; Economy via blockchain ledger. This is just the starting.<br><br>Smart devices development fitted with GPS receivers has been in high demand in recent years. These devices include smart-phones, tablets, smart watches and cameras. Global positioning system offers benefits through low consumption of power and wireless connectivity.\n<br><br>The Global Positioning System (GPS) has changed the way the world operates. This is especially true for marine operations, including <b>conservation</b>, search and rescue, vertical &amp; horizontal positioning and etc. GPS provides the fastest and most accurate method for mariners to navigate, measure speed, and determine location. This enables increased levels of safety and efficiency for mariners worldwide.&nbsp;<br>\n<br>Regional demand was followed by the Asia-Pacific market and is expected to show a steep rise owing to increasing smart-phone devices usage in countries including China, South Korea, Japan and Vietnam. Industry-leading marine and GPS navigation technologies made easily accessible to users worldwide\n<br>\n<br>For example, it is important in marine navigation for the ship's officer to know the vessel's position while in open sea and also in congested harbors and waterways. While at sea, accurate position, speed, and heading are needed to ensure the vessel reaches its destination in the safest, most economical and timely fashion that conditions will permit. The need for accurate position information becomes even more critical as the vessel departs from or arrives in port. Vessel traffic and other waterway hazards make maneuvering more difficult, and the risk of accidents becomes greater.\n<br>\n<br>An enhancement to the basic GPS signal known as Differential GPS (DGPS) provides much higher precision and increased safety in its coverage areas for maritime operations. Many nations use DGPS for operations such as buoy positioning, sweeping, and dredging. This enhancement improves harbor navigation.\n<br>\n<br>Governments and industrial organizations around the world are working together to develop performance standards for Electronic Chart Display and Information Systems, which use GPS and/or DGPS for positioning information. These systems are revolutionizing marine navigation and are leading to the replacement of paper nautical charts. With DGPS, position and radar information can be integrated and displayed on an electronic chart, forming the basis of the Integrated Bridge System which is being installed on commercial vessels of all types.\n<br>\n<br>GPS information is embedded within a system known as the Automatic Identification System (AIS) transmission. The AIS, which is endorsed by the International Maritime Organization, is used for vessel traffic control around busy seaways. This service is not only vital for navigation, but is increasingly used to bolster the security of ports and waterways by providing governments with greater situational awareness of commercial vessels and their cargo.<br>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>",
           "media": {
             "image": {
@@ -1083,7 +1083,8 @@
             "P": {
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "18px"
+              "font-size": "18px",
+              "text-align": "left"
             }
           }
         },
@@ -2152,7 +2153,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-66038-20160620-1999x103113.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-66038-20160620-1999x10311.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -3656,7 +3657,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/sea-level-rise-and-global-warming-infographic-all-facts-full-size-1140x421612.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sea-level-rise-and-global-warming-infographic-all-facts-full-size-1140x42160.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
