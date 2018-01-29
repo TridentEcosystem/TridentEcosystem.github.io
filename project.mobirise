@@ -405,7 +405,7 @@
             "overlayColor": "#37a757",
             "overlayOpacity": "0.9"
           },
-          "title": "Mission &amp; Investment",
+          "title": "Mission &amp; Investment 2018",
           "text": "<span style=\"font-style: normal;\">Create a sustainable and propagable marine industry which hundreds of million of users will be dependent on.\n<br>\n<br>With the help of blockchain technology and smart contracts, the whole process becomes as transparent and automated as possible, which makes the platform a strong extension of the existing sustainable industry and enables the use of crypto currency in real business.\n<br>\n<br>Trident Ecosystemis the first platform of its kind, and its economy assumes absolute transparency and absence of boundaries which provides new possibilities to monetize Marine Ecosystem thanks to the unique Trident (TRDNT) token. Trident (TRDNT) token will be the main mean of payment for various services within the ecosystem and also may act as storage of value with possible future gain as the global demand of TRDNT tokens increases. \n<br>\n<br>First immediate project will be the development and release of GPS Tracking App &amp; Server after the completion of Pre Early Birds Offering. This is a multip-purpose GPS Precision Tracking system with added visual and audio capabilities. &nbsp;Our first milestone is to release the fully functional Server and Mobile App by the end of Q2 2018. \n<br>\n<br>Immediate targeted users will be the 6 million professional and amateur drivers who are eager to subscribe to our services and also as TRDNT tokens holder.</span>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
@@ -2153,7 +2153,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-66038-20160620-1999x10319.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-66038-20160620-1999x10313.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -3657,7 +3657,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/sea-level-rise-and-global-warming-infographic-all-facts-full-size-1140x42168.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sea-level-rise-and-global-warming-infographic-all-facts-full-size-1140x42162.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
